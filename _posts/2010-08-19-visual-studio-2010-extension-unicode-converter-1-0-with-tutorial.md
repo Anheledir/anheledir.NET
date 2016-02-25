@@ -1,10 +1,11 @@
 ---
 layout: post
+section-type: post
 title: Visual Studio 2010 Extension: Unicode Converter 1.0 (with Tutorial)
 date: 2010-08-19 07:10
 author: Gordon Breuer
 comments: true
-categories: [Development, English]
+category: Development, English
 ---
 <p><a href="http://visualstudiogallery.msdn.microsoft.com/en-us/fcc87763-32e7-4870-8289-f18ce37b9764"><img class="wlDisabledImage" style="border-right-width: 0px; margin: 0px 10px 10px 0px; display: inline; border-top-width: 0px; border-bottom-width: 0px; border-left-width: 0px" src="http://anheledirwp.blob.core.windows.net/wordpress/2010/08/splashscreen.png" border="0" alt="Unicode Converter V1.0" width="200" height="133" align="left" /></a>For quite some time I&rsquo;m using a tool a co-worker has written to convert some text into &ldquo;websafe&rdquo; text. That&rsquo;s implying the convertion of special characters into html entities wherever possible, otherwise in their corresponding unicode notation <em>(&amp;#0000;</em>), replacing more then one space in a row with non-breaking spaces <em>(&amp;nbsp;</em>), replacing single line-breaks with the corresponding html-tag (<em>&lt;br /&gt;</em>) and also enclosing paragraphs with their html-tag <em>(&lt;p&gt;&hellip;&lt;/p&gt;</em>). Texts converted in this manner are having less or even no encoding problems in any webbrowsers and you don&rsquo;t have to fiddle around with manual adding those paragraph tags.</p>
 <p>I&rsquo;m using this tool a lot when working with html files directly in Notepad++ or a similar texteditor. But since that time I&rsquo;m now mainly working within Visual Studio. You may argue that you can add the text in the design-view and Visual Studio is converting it for you. But not all special chars are converted and when the text is some kind of rich edit (<em>e.g. from Word</em>) you get a lot of unwanted formatting, too! So you could paste it into a plain-text editor, copy it back to the clipboardf and then paste it into Vis&hellip;. For God&rsquo;s sake! Let&rsquo;s abadon this thought immediately before someone will really do it this way! Saying it with a borrowed term: <strong>There&rsquo;s an app for that!</strong> <img class="wlEmoticon wlEmoticon-winkingsmile" style="border-bottom-style: none; border-right-style: none; border-top-style: none; border-left-style: none" src="http://anheledirwp.blob.core.windows.net/wordpress/2010/08/wlEmoticonwinkingsmile.png" alt="Winking smile" /></p>

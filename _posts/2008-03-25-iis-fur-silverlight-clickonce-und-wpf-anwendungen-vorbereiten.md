@@ -4,7 +4,7 @@ title: IIS für Silverlight-, ClickOnce- und WPF-Anwendungen vorbereiten
 date: 2008-03-25 09:49
 author: Gordon Breuer
 comments: true
-categories: [Development, WWWahnsinn]
+category: Development, WWWahnsinn
 ---
 <p>
 Der Internet-Information-Service (IIS) von Microsoft verwendet f&uuml;r die Bereitstellung von Daten eine Whitelist mit erlaubten Dateiendungen. Steht eine Dateiendung nicht in dieser Liste, so erzeugt der IIS beim Abruf stattdessen eine Fehlermeldung. 

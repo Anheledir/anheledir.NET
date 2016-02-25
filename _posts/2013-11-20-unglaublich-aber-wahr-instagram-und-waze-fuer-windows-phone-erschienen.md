@@ -4,7 +4,7 @@ title: Unglaublich aber wahr: Instagram und Waze für Windows Phone erschienen
 date: 2013-11-20 22:12
 author: Gordon Breuer
 comments: true
-categories: [Mobile]
+category: Mobile
 ---
 <span style="background-color: #e3e5e7;"><img class="alignleft size-thumbnail wp-image-6946" style="margin-right: 10px; margin-bottom:10px;" alt="Geschenk!" src="http://anheledirwp.blob.core.windows.net/wordpress/2013/11/Gift-01-150x150.png" width="150" height="150" />Da wird doch der Hund in der Pfanne verrückt! Ist denn heut' schon Weihnachten? Seit 2010 wurden die Kritiker und Trolle einfach nicht leiser wenn es darum ging welche essentielle und nicht wegdenkbare App unter Windows Phone definitiv fehlt und ohne die es überhaupt gar keine Chance auf dem Markt haben würde. Die Rede ist natürlich von Instagram, dem kostenlosen Social Photo Dienst, den Facebook vor gar nicht so langer Zeit gekauft hat.</span>
 

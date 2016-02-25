@@ -4,7 +4,7 @@ title: Windows 10 Technical Preview: Don't call it Beta-Schnitzel!
 date: 2014-10-02 12:50
 author: Gordon Breuer
 comments: true
-categories: [IMHO, Windows 10]
+category: IMHO, Windows 10
 ---
 <img class="alignright wp-image-7173 size-medium" src="http://anheledirwp.blob.core.windows.net/wordpress/2014/10/windows-10-620x349-300x168.jpg" alt="Windows 10" width="300" height="168" />Das lange Warten auf die Preview der neuen Windows-Version hatte am Dienstag endlich ein Ende, und auch das Rätselraten um den Namen dieser neuen Version: Windows 10 soll es also jetzt heißen, und erscheinen wird es Mitte / Ende 2015. Also vermutlich wieder im Herbst. Wie immer. Warum also jetzt schon eine so unfertige Version veröffentlichen? Wir reden hier nicht von einer Beta und meiner Meinung nach noch nicht mal von einer Alpha-Version. Das, was man derzeit im Rahmen des<a href="http://windows.microsoft.com/de-de/windows/preview"> Insider-Programms </a>herunterladen und installieren kann ist kaum mehr als ein Prototyp, ein Durchstich der einige ganz wenige ausgesuchte neue Funktionen demonstriert. Und schon hört man überall Stimmen, was denn alles schlechter geworden ist, was alles nicht funktioniert und wie unausgereift und unfertig das doch noch alles ist.
 

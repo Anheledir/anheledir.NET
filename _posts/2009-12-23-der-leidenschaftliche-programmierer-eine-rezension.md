@@ -1,10 +1,11 @@
 ---
 layout: post
+section-type: post
 title: Der leidenschaftliche Programmierer: Eine Rezension
 date: 2009-12-23 04:56
 author: Gordon Breuer
 comments: true
-categories: [IMHO, Praxistest]
+category: IMHO, Praxistest
 ---
 <blockquote>
 <p>Ich glaube, dass jeder in seinem Inneren &uuml;ber einzigartige F&auml;higkeiten verf&uuml;gt. Doch er muss etwas finden, das ihm wirklich am herzen liegt, um diese F&auml;higkeiten zu entfalten. Sie k&ouml;nnen nicht bemerkenswert sein, wenn Sie Ihre Umgebung, Ihre Werkzeuge und Ihren Arbeitsbereich nicht lieben.</p>

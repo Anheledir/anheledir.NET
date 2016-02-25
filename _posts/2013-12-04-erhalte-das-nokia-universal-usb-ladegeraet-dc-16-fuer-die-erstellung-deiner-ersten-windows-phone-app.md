@@ -4,7 +4,7 @@ title: Erhalte das Nokia Universal-USB-Ladegerät DC-16 für die Erstellung dein
 date: 2013-12-04 14:39
 author: Gordon Breuer
 comments: true
-categories: [Mobile, Werkzeugkiste]
+category: Mobile, Werkzeugkiste
 ---
 <img class="alignleft  wp-image-6946" style="margin-right: 10px; margin-bottom: 10px;" alt="Geschenk!" src="http://anheledirwp.blob.core.windows.net/wordpress/2013/11/Gift-01-150x150.png" width="120" height="120" />Der Nokia Universal Portable USB Charger DC-16 ist nur einer von vielen interessanten Preisen, die ihr bei <a href="http://www.dvlup.com/anheledir/invite" target="_blank">DVLUP</a>, dem <strong>kostenlosen Entwickler-Programm für Windows Phone</strong> (und Asha) von Nokia eintauschen könnt! Ebenfalls mit dabei sind Ladekissen von Fatboy, Smartphones, Token für die unterschiedlichsten Services wie Infragistics NetAdvantage oder BugSense und viele andere Produkte der teilnehmenden Partner.
 

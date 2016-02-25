@@ -4,7 +4,7 @@ title: Windows Phone 7 Theme-Resources Cheat-Sheet
 date: 2011-05-31 22:03
 author: Gordon Breuer
 comments: true
-categories: [Development, English, Mobile]
+category: Development, English, Mobile
 ---
 <p><img style="background-image: none; margin: 0px 10px 10px 0px; padding-left: 0px; padding-right: 0px; display: inline; float: left; padding-top: 0px; border-width: 0px;" title="WP_Brd_Grn_v_rgb" src="http://anheledirwp.blob.core.windows.net/wordpress/2011/05/WP_Brd_Grn_v_rgb.png" border="0" alt="WP_Brd_Grn_v_rgb" width="150" height="60" align="left" /></p>
 <p>Instead of using hardcoded values for your font sizes, margins, and so on in your Windows Phone application, there are a lot of predefined resources already available you can just use.</p>

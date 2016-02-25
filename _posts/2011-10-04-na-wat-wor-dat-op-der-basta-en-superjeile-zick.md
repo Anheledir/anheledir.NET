@@ -4,7 +4,7 @@ title: Nä, wat wor dat op der BASTA! en superjeile Zick
 date: 2011-10-04 18:00
 author: Gordon Breuer
 comments: true
-categories: [Allgemein, Development, IMHO, Lehrstuhl]
+category: Allgemein, Development, IMHO, Lehrstuhl
 ---
 <p><a class="noicon" href="http://basta.net/"><img style="background-image: none; padding-left: 0px; padding-right: 0px; display: inline; float: left; padding-top: 0px; border-width: 0px;" title="187771_154941004560372_4940513_n" src="http://anheledirwp.blob.core.windows.net/wordpress/2011/10/187771_154941004560372_4940513_n.jpg" alt="187771_154941004560372_4940513_n" width="180" height="44" align="left" border="0" /></a>Vom <strong>26. bis zum 30. September 2011</strong> fand auch dieses Jahr wieder die <strong>BASTA!</strong> in der Rheingoldhalle in Mainz f&uuml;r alle <a href="http://dotnet-forum.de/forums/default.aspx?GroupID=32">Entwickler</a> statt. F&uuml;r die Hauptkonferenz habe ich von <a href="http://blog.jan-welker.de/">Jan Welker</a> dieses Jahr auch eine Eintrittskarte erhalten, die 26. BASTA! war also auch meine erste. Und mein Gesamteindruck war durchweg super!</p>
 <h2>Die Vortr&auml;ge auf der einen Seite&hellip;</h2>

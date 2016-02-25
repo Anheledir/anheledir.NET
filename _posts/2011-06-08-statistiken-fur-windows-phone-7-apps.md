@@ -1,10 +1,11 @@
 ---
 layout: post
+section-type: post
 title: Statistiken für Windows Phone 7 Apps
 date: 2011-06-08 14:59
 author: Gordon Breuer
 comments: true
-categories: [Development, Mobile, Werkzeugkiste]
+category: Development, Mobile, Werkzeugkiste
 ---
 <p><img style="background-image: none; margin: 0px 0px 0px 10px; padding-left: 0px; padding-right: 0px; display: inline; float: right; padding-top: 0px; border: 0px;" title="5-SEM_Competitive_Analysis_2" src="http://anheledirwp.blob.core.windows.net/wordpress/2011/06/5-SEM_Competitive_Analysis_2.jpg" border="0" alt="5-SEM_Competitive_Analysis_2" width="183" height="137" align="right" />Wie jeder andere Entwickler auch m&ouml;chte nat&uuml;rlich auch der WP7-Entwickler gerne wissen, wie oft seine geschriebenen Anwendungen verwendet werden, von wem und von wo. Denn nur wer den Markt kennt, kann auch zielgerichtet f&uuml;r ihn entwickeln! Microsoft selber bietet hier nur eine sehr rudiment&auml;re Statistik im App-Hub an, die zudem auch nur zeitversetzt angezeigt wird. Die dort einsehbaren Nutzerzahlen sind bereits rund eine Woche alt und bilden zudem au&szlig;er der Info &ldquo;Free-App&rdquo;, &ldquo;Test-Version&rdquo; oder &ldquo;Gekauft&rdquo; nur noch das Land in dem es heruntergeladen wurde ab. Wer mehr wissen m&ouml;chte, oder auch einfach nur schneller, der muss folglich zu einer 3rd-Party L&ouml;sung greifen. Ein paar der wichtigsten sind:</p>
 <ul>

@@ -4,7 +4,7 @@ title: Mea culpa, mea culpa, mea maxima culpa
 date: 2009-03-19 02:12
 author: Gordon Breuer
 comments: true
-categories: [Allgemein, Unterhaltung]
+category: Allgemein, Unterhaltung
 ---
 <p><img style="border-top-width: 0px; display: inline; border-left-width: 0px; border-bottom-width: 0px; margin: 0px 10px 5px 0px; border-right-width: 0px" title="Wie konnte das passieren - Gerd Altmann (pixelio.de)" src="http://anheledirwp.blob.core.windows.net/wordpress/2009/03/WiekonntedaspassierenGerdAltmann.jpg" border="0" alt="Wie konnte das passieren - Gerd Altmann (pixelio.de)" width="150" height="100" align="left" /> Vor beinahe einer Woche ist die neue Community-Seite <a href="http://dotnet-kicks.de/" target="_blank">dotnet-kicks.de</a> an den Start gegangen &ndash; soweit nichts neues. Inzwischen gab es einige Hintergrundinformationen zur Entstehung des ganzen Projektes von <a href="http://blog.jan-welker.de/2009/03/13/dotnetkicksdeIstOnline.aspx" target="_blank">Jan Welker</a>. Und auch im Blog der Seite wurde ein <a href="http://blog.dotnet-kicks.de/post/Willkommen-auf-dotnet-kicksde-und-seinem-Blog!.aspx" target="_blank">Artikel ver&ouml;ffentlicht</a> der das Projekt ein wenig genauer umrei&szlig;t. Eigentlich fehlt nur noch eine letzte Erl&auml;uterung: &ldquo;<em>Was zur H&ouml;lle sollte der Mist mit den Postkarten?!</em>&rdquo;</p>
 <h3>Ich gestehe!</h3>

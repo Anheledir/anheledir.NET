@@ -4,7 +4,7 @@ title: „Houston, ready for Take-off!“ - Ein erster Blick auf Windows Phone 8
 date: 2012-06-21 09:34
 author: Gordon Breuer
 comments: true
-categories: [Development, Fachartikel, Mobile]
+category: Development, Fachartikel, Mobile
 ---
 <p><img style="float: left; margin: 20px 10px 10px 0px;" src="/image.axd?picture=2012%2f6%2f2134_StartScreen_Elizabeth29_thumb_5A2D1B5A.png" alt="" /></p>
 <p>Gestern Abend war es nach monatelanger Ungewissheit endlich soweit: Microsoft hat erste Details zu Windows Phone 8 bekannt gegeben! Und die Betonung liegt hier auf dem Wort &bdquo;erste&ldquo;, denn es gibt so viel neues zu berichten, dass Microsoft jetzt nur eine schnelle Sight-Seeing-Tour gemacht hat und erst im Laufe der n&auml;chsten Wochen und Monate genaue Details zu den einzelnen Themen bekannt geben wird.&nbsp; Dabei gab es einige unerwartete Knaller, ein paar Entt&auml;uschungen, schonungslose Wahrheiten und lang ersehnte Ank&uuml;ndigungen in allen nur denkbaren Bereichen. Doch der Reihe nach&hellip;</p>

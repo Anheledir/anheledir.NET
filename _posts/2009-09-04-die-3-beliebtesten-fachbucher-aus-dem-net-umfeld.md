@@ -1,10 +1,11 @@
 ---
 layout: post
+section-type: post
 title: Die 3 beliebtesten Fachbücher aus dem .NET-Umfeld
 date: 2009-09-04 00:17
 author: Gordon Breuer
 comments: true
-categories: [Development, Lehrstuhl]
+category: Development, Lehrstuhl
 ---
 <p><img style="margin: 0px 0px 0px 10px; display: inline; border: 0px;" title="viele verschiedene b&uuml;cher &copy; glori" src="http://anheledirwp.blob.core.windows.net/wordpress/2009/09/vieleverschiedenebcherglori.jpg" border="0" alt="viele verschiedene b&uuml;cher &copy; glori" width="150" height="110" align="right" /> Wolfgang Kluge hat in seinem Blog eine <a href="http://gehirnwindung.de/post/2009/09/01/Blog-Parade-Die-3-beliebtesten-Fachbucher-aus-dem-NET-Umfeld.aspx" target="_blank">neue Blog-Parade</a> gestartet um herauszufinden, welches die beliebtesten, bzw. verbreitetesten, Fachb&uuml;cher im Umfeld der Programmierung mit dem .NET-Framework sind. Ich selber lese noch immer gerne B&uuml;cher trotz der mangelnden F&auml;higkeit des Instant-Updates. Vielleicht liegt es einfach daran, dass ich mich zum lesen gerne in eine ruhige Ecke oder auf die Couch zur&uuml;ck ziehe und das ist mit einem PC gar nicht so einfach. Selbst bei einem Note- oder Netbook wird man st&auml;ndig abgelenkt durch so viele andere Sachen die man da noch laufen hat. Vielleicht w&auml;re ein eBook-Reader genau das Richtige f&uuml;r mich, aber die zur Zeit erh&auml;ltlichen Ger&auml;te sind mir da einfach noch zu teuer. Doch ich schweife ab&hellip;</p>
 <p>In den vergangenen Jahren habe ich mehrere B&uuml;cher gelesen, die sich mit dem .NET-Framework in irgendeiner Form auseinander gesetzt haben. Viele sind aber inzwischen nicht mehr auf dem aktuellen Stand. Hier aber eine Auswahl der B&uuml;cher, die sich bei mir aktuell auf dem Schreibtisch in Griffn&auml;he befinden: [more]</p>

@@ -1,5 +1,6 @@
 ---
 layout: post
+section-type: post
 title: WP-Tipp #061 - Bezahlen über die Mobilfunkrechnung und PayPal
 date: 2013-09-10 14:45
 author: Gordon Breuer

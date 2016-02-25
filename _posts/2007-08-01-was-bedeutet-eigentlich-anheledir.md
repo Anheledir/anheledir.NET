@@ -4,7 +4,7 @@ title: Was bedeutet eigentlich Anheledir?
 date: 2007-08-01 20:49
 author: Gordon Breuer
 comments: true
-categories: [Allgemein]
+category: Allgemein
 ---
 <p>
 Ich kann gar nicht mehr z&auml;hlen wie oft ich schon nach der Herkunft / Bedeutung meines Nicknames <em>Anheledir</em> gefragt wurde. Immerhin habe ich es damit geschafft eine Wortneusch&ouml;pfung zu kreieren&nbsp;welche man sonst im Internet nicht findet. Als Resultat kann man mit ziemlicher Sicherheit davon ausgehen, dass bei einer <a href="http://search.live.com/results.aspx?q=anheledir&amp;mkt=en-us&amp;FORM=LIVSOP">Suche nach Anheledir</a> die Ergebnisse irgendwas mit mir zu tun haben. Auch wenn das vom Aspekt des Datenschutzes durchaus auch ein Nachteil sein kann... 

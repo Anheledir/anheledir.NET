@@ -4,7 +4,7 @@ title: Kauf-Nix-Tag
 date: 2013-11-30 08:00
 author: Gordon Breuer
 comments: true
-categories: [Allgemein]
+category: Allgemein
 ---
 <em>Ursprünglich als Buy Nothing Day 1992 von einer kanadischen Werbeagentur erfunden; letzter Freitag (Nordamerika) bzw. Samstag (Europa) im November</em>
 

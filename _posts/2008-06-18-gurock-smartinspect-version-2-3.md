@@ -4,7 +4,7 @@ title: Gurock SmartInspect Version 2.3
 date: 2008-06-18 20:19
 author: Gordon Breuer
 comments: true
-categories: [Praxistest, Werkzeugkiste]
+category: Praxistest, Werkzeugkiste
 ---
 <p><a href="http://www.gurock.com/products/smartinspect/t/2/" target="_blank"><img style="margin: 0px 5px 0px 0px; border-width: 0px" title="SmartInspectLogo" src="http://anheledirwp.blob.core.windows.net/wordpress/2008/06/SmartInspectLogo_3.png" border="0" alt="SmartInspectLogo" width="240" height="75" align="left" /></a> Jedes Projekt, dass ein wenig gr&ouml;&szlig;er wird, ben&ouml;tigt sp&auml;testens wenn die ersten Fehler auftreten eine M&ouml;glichkeit zum Debuggen. Bei einfacheren Programmen gen&uuml;gen ein paar Write-Befehle oder auch die Trace- und Debug-M&ouml;glichkeiten des <span style="font-family: Courier New;">System.Diagnostics</span> Namespaces im .NET Framework. Diese Art des Loggens wird jedoch mit Zunahme der Informationsmenge immer schwerer erfassbar; und bei Multithreading-Anwendungen ist es schlie&szlig;lich nahezu unm&ouml;glich die Aktionen eines bestimmten Threads jederzeit im Auge zu behalten. Will man in das fertige Produkt ebenfalls eine Logging-M&ouml;glichkeit einbauen, um bei <abbr title="eventuellen">evtl</abbr>. Fehlern das Verhalten des Anwenders das zu selbigen f&uuml;hrte nachzuvollziehen, ist man mit den einfachen Methoden schnell an seine Grenzen gesto&szlig;en. Die Firma Gurock Software <acronym title="Gesellschaft mit beschr&auml;nkter Haftung">GmbH </acronym>mit Sitz in Paderborn hat sich mit ihrem Produkt <strong>SmartInspect</strong> diesem Problem angenommen.</p>
 <table style="width: 523px;" border="1" cellspacing="0" cellpadding="2">

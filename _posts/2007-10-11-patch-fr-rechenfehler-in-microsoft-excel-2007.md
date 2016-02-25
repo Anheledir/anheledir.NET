@@ -4,7 +4,7 @@ title: Patch für Rechenfehler in Microsoft Excel 2007
 date: 2007-10-11 02:08
 author: Gordon Breuer
 comments: true
-categories: [Werkzeugkiste]
+category: Werkzeugkiste
 ---
 <p>
 <a href="http://static.gordon-breuer.de/img/PatchfrRechenfehlerinMicrosoftExcel2007_EED4/office-logo_2.gif"><img style="margin: 0px 5px 0px 0px; border-width: 0px" src="http://anheledirwp.blob.core.windows.net/wordpress/2007/10/office-logo_thumb.gif" border="0" alt="office-logo" width="78" height="84" align="left" /></a> Vor zwei Wochen wurde ein Bug in der neuesten Excel-Version von Microsoft bekannt: Beim Berechnen von bestimmten Werten (65.535 / 65.536) kam es zu einer fehlerhaften Berechnung und Excel zeigte ein viel zu gro&szlig;es Ergebnis an. 

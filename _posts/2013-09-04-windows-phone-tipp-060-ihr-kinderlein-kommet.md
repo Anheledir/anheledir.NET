@@ -1,5 +1,6 @@
 ---
 layout: post
+section-type: post
 title: WP-Tipp #060 - Ihr Kinderlein kommet
 date: 2013-09-04 11:19
 author: Gordon Breuer

@@ -1,10 +1,11 @@
 ---
 layout: post
+section-type: post
 title: CSSVista - Der etwas andere CSS-Editor
 date: 2007-09-11 23:13
 author: Gordon Breuer
 comments: true
-categories: [Werkzeugkiste, WWWahnsinn]
+category: Werkzeugkiste, WWWahnsinn
 ---
 <p>
 Wenn man viel mit der Erstellung und Anpassung von Webseiten zu tun hat, kennt man sicher das Problem: Die Cascading Stylesheets (CSS) werden seit Ver&ouml;ffentlichung des Internet Explorers 7 zwar in den g&auml;ngigsten Browsern gut unterst&uuml;tzt, aber es gibt immer noch zahlreiche Unterschiede in der Darstellung zwischen Mozilla (bsp. Firefox) und IE. 

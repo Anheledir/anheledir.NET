@@ -4,7 +4,7 @@ title: Telefonnummer für den Notfall im Handy
 date: 2007-09-21 00:31
 author: Gordon Breuer
 comments: true
-categories: [Allgemein]
+category: Allgemein
 ---
 <p>
 &nbsp;<a href="http://static.gordon-breuer.de/img/TelefonnummerfrdenNotfallimHandy_D610/IN_logo_2.jpg"><img style="margin: 0px 0px 0px 5px; border-width: 0px" src="http://anheledirwp.blob.core.windows.net/wordpress/2007/09/IN_logo_thumb.jpg" border="0" alt="IN_logo" width="98" height="104" align="right" /></a>Mich hat gestern eine E-Mail von einem Bekannten erreicht mit einem interessanten&nbsp; Hinweis. Und statt diesen per E-Mail zu verbreiten (wie dort empfohlen) f&uuml;ttere ich einfach mal mein Blog damit: 

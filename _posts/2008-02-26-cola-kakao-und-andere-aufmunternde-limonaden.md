@@ -4,7 +4,7 @@ title: Cola, Kakao und andere aufmunternde Limonaden
 date: 2008-02-26 19:47
 author: Gordon Breuer
 comments: true
-categories: [Allgemein]
+category: Allgemein
 ---
 <p>
 <img style="margin: 0px 10px 0px 0px; border: 0px" src="http://anheledirwp.blob.core.windows.net/wordpress/2008/02/ap_32537_Cappuccino_herzig_DSCN7116_2_3.jpg" border="0" alt="ap_32537_Cappuccino_herzig_DSCN7116_2" width="127" height="95" align="left" /> Die &Uuml;berschrift, ein Zitat aus dem <a href="http://www.wissen-gesundheit.de/weather.asp?did0=2022&amp;did1=2034&amp;wptid=3&amp;wpid=7606" target="_blank">heutigen &#39;Tipp des Tages&#39;</a> der Wissen Gesundheit News, mag auf den ersten Blick etwas verwundern. Und in der Tat ist sie etwas ungl&uuml;cklich formuliert - ist doch der Kakao alles, nur keine Limonade. Der Satz mag jedoch noch aus einem anderen Grund verwundern, geht es in dem Artikel doch um Koffein. Sollte etwa Kakao...?

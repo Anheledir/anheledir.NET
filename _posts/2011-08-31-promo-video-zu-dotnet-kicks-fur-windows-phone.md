@@ -1,10 +1,11 @@
 ---
 layout: post
+section-type: post
 title: Promo-Video zu dotnet Kicks für Windows Phone
 date: 2011-08-31 10:39
 author: Gordon Breuer
 comments: true
-categories: [Mobile, Unterhaltung]
+category: Mobile, Unterhaltung
 ---
 <p><img style="background-image: none; margin: 6px 10px 0px 0px; padding-left: 0px; padding-right: 0px; display: inline; float: left; padding-top: 0px; border: 0px;" title="Large Mobile App Tile" src="http://anheledirwp.blob.core.windows.net/wordpress/2011/08/Large-Mobile-App-Tile.png" border="0" alt="Large Mobile App Tile" width="120" height="120" align="left" />Vor einigen Monaten kamen <a href="http://blog.jan-welker.de/">Jan</a> und ich auf die Idee, eine App f&uuml;r dotnet Kicks auf dem Windows Phone zu erstellen. Warum? Weil wir es k&ouml;nnen! Und weil es einfach Spa&szlig; macht f&uuml;r WP7 zu entwickeln, wie ich finde. Inzwischen ist &ldquo;<a href="/page/APP-dotnet-Kicks.aspx">dotnet Kicks</a>&rdquo; seit etwas &uuml;ber einer Woche im Marketplace verf&uuml;gbar. Und auch wenn die Installationen mit etwa 70 Benutzern nicht gerade explodieren sind wir dennoch ganz zufrieden. <img class="wlEmoticon wlEmoticon-smile" style="border-style: none;" src="http://anheledirwp.blob.core.windows.net/wordpress/2011/08/wlEmoticon-smile1.png" alt="Smiley" /></p>
 <p>Aber die App selber war nur ein kleiner Teil: Mindestens ebensoviel Arbeit, wenn nicht wahrscheinlich sogar deutlich mehr, ist in unseren kleinen Promo-Teaser geflossen. Wer ihn bisher noch nicht gesehen hat:</p>

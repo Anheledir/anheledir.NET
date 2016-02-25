@@ -4,7 +4,7 @@ title: Windows 8.1 Live-Kachel für eure Website
 date: 2013-10-21 10:00
 author: Gordon Breuer
 comments: true
-categories: [Allgemein, Werkzeugkiste, WWWahnsinn]
+category: Allgemein, Werkzeugkiste, WWWahnsinn
 ---
 <a href="http://www.buildmypinnedsite.com/de-DE"><img class="alignleft size-full wp-image-4306" style="margin-right: 10px; margin-bottom: 10px;" alt="Build your own Pinned Site - Demo" src="http://anheledirwp.blob.core.windows.net/wordpress/2013/10/Screenshot-2.png" width="242" height="357" /></a>Mit Windows 7 hat Microsoft erstmalig die Möglichkeit eingeführt, eine Website an die Startleiste festzusetzen, oder zu pinnen wie man heute sagt. Windows 8 hat das fortgeführt und man kann Websites nun als Kachel auf seinem Startbildschirms anordnen. Im Gegensatz zu Apps gab es aber für Websites nur zwei Kachelgrößen (klein und mittel), und als Bild wurde das Favicon verwendet.
 

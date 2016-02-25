@@ -4,7 +4,7 @@ title: WordPress auf Windows Azure Cloud-Services umstellen
 date: 2013-11-19 19:38
 author: Gordon Breuer
 comments: true
-categories: [Cloud, Werkzeugkiste, WWWahnsinn]
+category: Cloud, Werkzeugkiste, WWWahnsinn
 ---
 <img class="size-full wp-image-6851 alignleft" style="margin-right: 10px; margin-bottom: 10px;" alt="Wordpress on Windows Azure" src="http://anheledirwp.blob.core.windows.net/wordpress/2013/11/Wordpress-on-Azure.png" width="180" height="180" />Der <a title="Blog und Piwik wieder erreichbar" href="http://gordon-breuer.de/2013/11/blog-und-piwik-wieder-erreichbar/">letzte Ausfall meines virtuellen Linux-Servers</a> auf dem unter anderem die Wordpress-Installation meines Blogs lief war schon etwas lästig und gab mir zu denken. Mir blieben die folgenden Handlungsmöglichkeiten:
 <ol>

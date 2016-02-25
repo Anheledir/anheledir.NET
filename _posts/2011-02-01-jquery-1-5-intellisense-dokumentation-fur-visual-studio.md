@@ -4,7 +4,7 @@ title: jQuery 1.5 Intellisense-Dokumentation für Visual Studio
 date: 2011-02-01 09:46
 author: Gordon Breuer
 comments: true
-categories: [Development]
+category: Development
 ---
 <p><a href="http://jquery.com/"><img style="background-image: none; margin: 0px 10px 10px 0px; padding-left: 0px; padding-right: 0px; display: inline; float: left; padding-top: 0px; border: 0px;" title="jQuery-Logo" src="http://anheledirwp.blob.core.windows.net/wordpress/2011/02/jQuery-Logo.png" border="0" alt="jQuery-Logo" width="240" height="59" align="left" /></a>Endlich erschien die beliebte Javascript Bibliothek jQuery in der neuen und fehlerbereinigten Version 1.5. Insgesamt wurden rund 83 Fehlerkorrekturen und 460 Feature- und &Auml;nderungsw&uuml;nsche eingearbeitet. Das betrifft unter anderem das Ajax-Modul, ein neues Feature &ldquo;verz&ouml;gerte Objekte&rdquo; (deferred objects) und eine verbesserte Performance in einigen Bereichen. Weitere Informationen zum eigentlichen Release findet ihr im <a href="http://blog.jquery.com/2011/01/31/jquery-15-released/">jQuery-Blog</a>.</p>
 <p>Doch was mal wieder derzeit fehlt, auch auf dem <a href="http://www.asp.net/ajaxlibrary/cdn.ashx#jQuery_Releases_on_the_CDN_0">CDN von Microsoft</a>, ist die <strong>vsdoc-Datei</strong>, mit deren Hilfe Visual Studio 2010 (und 2008 mit einem Update) Intellisense f&uuml;r die Bibliothek bereitstellen kann. Deshalb habe ich eine aktualisierte <a title="jQuery 1.5 Visual Studio Documentation for Intellisense" href="http://static.gordon-breuer.de/files/js/jquery-1.5-vsdoc.js.zip">jquery-1.5-vsdoc.js</a> erstellt, in der bereits alle &Auml;nderungen der API-Dokumentation eingearbeitet sind. Um Hot-Links zu verhindern ist die Datei als ZIP-Archiv gepackt.</p>

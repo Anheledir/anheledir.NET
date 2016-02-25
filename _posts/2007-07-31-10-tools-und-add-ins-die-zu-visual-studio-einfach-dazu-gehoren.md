@@ -4,7 +4,7 @@ title: 10 Tools und Add-Ins die zu Visual Studio einfach dazu gehören
 date: 2007-07-31 11:47
 author: Gordon Breuer
 comments: true
-categories: [Development, Werkzeugkiste]
+category: Development, Werkzeugkiste
 ---
 <p>
 Man sieht sie ja immer wieder, die &quot;<em>Top-10</em>&quot;-Listen f&uuml;r diverse Bereiche. Und auch im MSDN Magazine gab es im Dezember 2005 einen Artikel &quot;<a href="http://msdn.microsoft.com/msdnmag/issues/05/12/VisualStudioAddins/default.aspx" target="_blank">Visual Studio Add-Ins Every Develper Should Download Now</a>&quot;. Nun hat aber jeder seine eigenen Vorlieben und auch andere Pr&auml;ferenzen. Im folgenden deshalb eine Auswahl der Tools und Add-Ins, die ich w&auml;hrend meiner Arbeit am h&auml;ufigsten einsetze. 

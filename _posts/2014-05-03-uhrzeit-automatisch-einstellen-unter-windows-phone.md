@@ -4,7 +4,7 @@ title: Uhrzeit unter Windows Phone automatisch einstellen? Besser Finger weg.
 date: 2014-05-03 23:45
 author: Gordon Breuer
 comments: true
-categories: [Allgemein, Mobile]
+category: Allgemein, Mobile
 ---
 [caption id="attachment_7140" align="alignleft" width="150"]<a href="http://anheledirwp.blob.core.windows.net/wordpress/2014/06/wp_ss_20140110_00012.png"><img class="wp-image-7140 size-thumbnail" src="http://anheledirwp.blob.core.windows.net/wordpress/2014/06/wp_ss_20140110_00012-150x150.png" alt="Windows Phone - Einstellungen - Datum und Uhrzeit" width="150" height="150" /></a> Windows Phone - Einstellungen - Datum und Uhrzeit[/caption]
 

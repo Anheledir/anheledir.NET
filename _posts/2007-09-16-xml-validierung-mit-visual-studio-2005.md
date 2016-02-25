@@ -4,7 +4,7 @@ title: XML-Validierung mit Visual Studio 2005
 date: 2007-09-16 09:25
 author: Gordon Breuer
 comments: true
-categories: [Development, Werkzeugkiste]
+category: Development, Werkzeugkiste
 ---
 <p>
 Wir haben bei uns in der Firma schon seit einiger Zeit einen XML-Editor gesucht, der nicht nur gegen Standard-DTDs validieren, sondern bei dem man auch eigene Schemas angeben kann. Gefunden haben wir dabei beispielsweise <a href="http://www.oxygenxml.com/" target="_blank">&lt;oXygen/&gt;</a>, der mit &uuml;ber $200 allerdings doch etwas teuer ist, daf&uuml;r dass wir nur einen sehr kleinen Funktionsumfang wirklich br&auml;uchten. F&uuml;r neue XSD-Schemas gibt es ebenfalls einige Editoren wie beispielsweise <a href="http://www.microsoft.com/downloads/details.aspx?FamilyID=72D6AA49-787D-4118-BA5F-4F30FE913628&amp;displaylang=en" target="_blank">Microsoft XML Notepad 2007</a>, aber unsere XML-Dateien verwenden aus technischen Gr&uuml;nden noch eine DTD und keine XSD - und gegen die kann XML Notepad nicht validieren. 

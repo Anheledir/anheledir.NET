@@ -4,7 +4,7 @@ title: Das Hütchenspiel
 date: 2008-01-31 20:47
 author: Gordon Breuer
 comments: true
-categories: [Werkzeugkiste]
+category: Werkzeugkiste
 ---
 <p>
 <em>Sie h&auml;tten gerne Visual Studio 2008? Aber sicher, bitte gerne: Ist die f&uuml;r sie richtige Version in Tor 1, Tor 2 oder Tor 3 ...</em> 

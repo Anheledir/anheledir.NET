@@ -1,5 +1,6 @@
 ---
 layout: post
+section-type: post
 title: WP-Tipp #058 - Jedi-Mind-Trick mit dem Nokia Lumia
 date: 2013-08-29 16:33
 author: Gordon Breuer

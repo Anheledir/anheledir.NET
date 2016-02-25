@@ -1,5 +1,6 @@
 ---
 layout: post
+section-type: post
 title: WP-Tipp #059 - Datenverbrauch und Hotspot-Suche mit DataSense
 date: 2013-09-02 14:20
 author: Gordon Breuer

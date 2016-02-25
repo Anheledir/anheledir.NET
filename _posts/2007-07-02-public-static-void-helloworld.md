@@ -1,10 +1,11 @@
 ---
 layout: post
+section-type: post
 title: public static void HelloWorld () { ... }
 date: 2007-07-02 07:00
 author: Gordon Breuer
 comments: true
-categories: [Allgemein, WWWahnsinn]
+category: Allgemein, WWWahnsinn
 ---
 <p>
 Nach einigen Versuchen mit dem eigenen Webauftritt, diversen Aktivitäten in Wikis,
