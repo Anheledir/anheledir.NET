@@ -1,7 +1,7 @@
 ---
 layout: post
 section-type: post
-title: WP-Tipp #034 – Multitasking, oder: Eine im Vordergrund, fünf im Sinn
+title: WP-Tipp #034 – Multitasking, oder -  Eine im Vordergrund, fünf im Sinn
 date: 2011-10-20 08:00
 author: Gordon Breuer
 comments: true

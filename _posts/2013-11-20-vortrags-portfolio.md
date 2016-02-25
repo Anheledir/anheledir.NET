@@ -1,7 +1,7 @@
 ---
 layout: post
 section-type: post
-title: Als Sprecher und Trainer unterwegs: Mein Vortrags-Portfolio
+title: Als Sprecher und Trainer unterwegs -  Mein Vortrags-Portfolio
 category: 
 tags: []
 ---

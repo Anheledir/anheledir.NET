@@ -1,7 +1,7 @@
 ---
 layout: post
 section-type: post
-title: WP-Tipp #044 – Vorsicht ist die Mutter der Porzellankiste, oder: Tastensperre mit Kennwort
+title: WP-Tipp #044 – Vorsicht ist die Mutter der Porzellankiste, oder -  Tastensperre mit Kennwort
 date: 2011-11-03 10:00
 author: Gordon Breuer
 comments: true

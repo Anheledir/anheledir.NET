@@ -1,7 +1,7 @@
 ---
 layout: post
 section-type: post
-title: Pimp my IDE: Plug-Ins für Visual Studio 2010 die man kennen sollte
+title: Pimp my IDE -  Plug-Ins für Visual Studio 2010 die man kennen sollte
 category: Unknown
 tags: []
 ---

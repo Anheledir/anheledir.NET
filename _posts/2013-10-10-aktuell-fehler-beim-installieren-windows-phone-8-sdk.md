@@ -1,7 +1,7 @@
 ---
 layout: post
 section-type: post
-title: Aktuell: Fehler beim Installieren des Windows Phone 8 SDK
+title: Aktuell -  Fehler beim Installieren des Windows Phone 8 SDK
 category: Unknown
 tags: []
 ---

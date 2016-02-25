@@ -1,7 +1,7 @@
 ---
 layout: post
 section-type: post
-title: dotnet Cologne 2010: Ein Rückblick (aktualisiert 3)
+title: dotnet Cologne 2010 -  Ein Rückblick (aktualisiert 3)
 category: Unknown
 tags: []
 ---

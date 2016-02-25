@@ -1,7 +1,7 @@
 ---
 layout: post
 section-type: post
-title: Download verfuegbar: Internet Explorer 8 (Beta)
+title: Download verfuegbar -  Internet Explorer 8 (Beta)
 category: Unknown
 tags: []
 ---

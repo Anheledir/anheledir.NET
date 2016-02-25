@@ -1,7 +1,7 @@
 ---
 layout: post
 section-type: post
-title: Update available: VisualSVN 1.5.3 released
+title: Update available -  VisualSVN 1.5.3 released
 category: Unknown
 tags: []
 ---

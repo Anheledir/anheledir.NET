@@ -1,7 +1,7 @@
 ---
 layout: post
 section-type: post
-title: WP-Tipp #046 – Rufumleitungen: Der gewünschte Gesprächspartner ist vorübergehend nicht zu erreichen!
+title: WP-Tipp #046 – Rufumleitungen -  Der gewünschte Gesprächspartner ist vorübergehend nicht zu erreichen!
 date: 2011-11-08 12:00
 author: Gordon Breuer
 comments: true

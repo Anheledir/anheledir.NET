@@ -1,7 +1,7 @@
 ---
 layout: post
 section-type: post
-title: Windows 10 Technical Preview: Don't call it Beta-Schnitzel!
+title: Windows 10 Technical Preview -  Don't call it Beta-Schnitzel!
 category: Unknown
 tags: []
 ---

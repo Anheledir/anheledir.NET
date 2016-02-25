@@ -1,7 +1,7 @@
 ---
 layout: post
 section-type: post
-title: CompiledQueries: Die Pegasus-Stiefel für LINQ
+title: CompiledQueries -  Die Pegasus-Stiefel für LINQ
 category: 
 tags: []
 ---

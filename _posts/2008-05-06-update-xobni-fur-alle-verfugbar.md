@@ -1,7 +1,7 @@
 ---
 layout: post
 section-type: post
-title: Update: Xobni für alle verfügbar
+title: Update -  Xobni für alle verfügbar
 category: Unknown
 tags: []
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 section-type: post
-title: Rezension: Video-Training “Windows Phone 7 mit Silverlight”
+title: Rezension -  Video-Training “Windows Phone 7 mit Silverlight”
 category: Unknown
 tags: []
 ---
