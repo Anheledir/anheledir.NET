@@ -24,7 +24,7 @@ Alles klar? Na, dann los! :-)
 
 [appbox windowsphone 178ac8a1-6519-4a0b-960c-038393741e96]
 
-[caption id="attachment_4282" align="alignright" width="180"]<a href="http://old.gordon-breuer.de/wp-content/uploads/2013/10/WP_20131015.png"><img class="size-medium wp-image-4282  " style="border: 10px solid black;" alt="Windows Phone 8 GDR3 Preview - Updatemeldung" src="http://anheledirwp.blob.core.windows.net/wordpress/2013/10/WP_20131015-180x300.png" width="180" height="300" /></a> Windows Phone 8 GDR3 Preview - Updatemeldung[/caption]
+<img class="size-medium wp-image-4282  " style="border: 10px solid black;" alt="Windows Phone 8 GDR3 Preview - Updatemeldung" src="http://anheledirwp.blob.core.windows.net/wordpress/2013/10/WP_20131015-180x300.png" width="180" height="300" />
 
 Installiert die Preview-App auf eurem Windows Phone und startet sie danach. Es folgen noch einmal die Warnungen (I<em>hr seid euch wirklich sicher, ja? Ok, ok, bin ja schon ruhig!</em>), die Nutzungsbedingungen und am Ende könnt ihr durch das einfache Setzen eines Häkchen in der Checkbox Euer Gerät für die Preview-Updates freischalten. Eventuell kommt vor dem Bildschirm mit der Checkbox noch ein Browserfenster um euch mit eurer Microsoft-ID anzumelden. Das erscheint offenbar immer dann, wenn Euer Smartphone noch nicht als Entwicklergerät bis jetzt freigeschaltet wurde. Gebt eure Account-Daten ein und bestätigt mit "OK", und die App erledigt den Rest für euch. Beendet die App im Anschluss mit dem Button, ruft in euren Telefon-Einstellungen die Handyupdates auf und startet die Suche nach neuen Updates. Euer Windows Phone wird (aktuell) drei Update-Pakete finden und herunterladen. Nach einem Neustart ist Euer Windows Phone dann auf dem neuestem Stand!
 
@@ -48,10 +48,8 @@ Es gibt sicher noch mehr Kleinigkeiten, die neu dazu gekommen sind - wer weitere
 
 Was haltet ihr vom Windows Phone Preview Programm? Werdet ihr euch registrieren und Euer Alltags-Gerät aktualisieren?
 
-&nbsp;
+<img class="size-medium wp-image-4279 " style="border: 10px solid black;" alt="Windows Phone 8 GDR3 Preview - Fahrzeugmodus" src="http://anheledirwp.blob.core.windows.net/wordpress/2013/10/WP_20131015-3-180x300.png" width="180" height="300" />
 
-[caption id="attachment_4279" align="alignleft" width="180"]<a href="http://old.gordon-breuer.de/wp-content/uploads/2013/10/WP_20131015-3.png"><img class="size-medium wp-image-4279 " style="border: 10px solid black;" alt="Windows Phone 8 GDR3 Preview - Fahrzeugmodus" src="http://anheledirwp.blob.core.windows.net/wordpress/2013/10/WP_20131015-3-180x300.png" width="180" height="300" /></a> Windows Phone 8 GDR3 Preview - Fahrzeugmodus[/caption]
+<img class="size-medium wp-image-4277" style="border: 10px solid black;" alt="Windows Phone 8 GDR3 Preview - Einstellungen in der App-Liste" src="http://anheledirwp.blob.core.windows.net/wordpress/2013/10/WP_20131015-1-180x300.png" width="180" height="300" />
 
-[caption id="attachment_4277" align="alignleft" width="180"]<a href="http://old.gordon-breuer.de/wp-content/uploads/2013/10/WP_20131015-1.png"><img class="size-medium wp-image-4277" style="border: 10px solid black;" alt="Windows Phone 8 GDR3 Preview - Einstellungen in der App-Liste" src="http://anheledirwp.blob.core.windows.net/wordpress/2013/10/WP_20131015-1-180x300.png" width="180" height="300" /></a> Windows Phone 8 GDR3 Preview - Einstellungen in der App-Liste[/caption]
-
-[caption id="attachment_4281" align="alignleft" width="180"]<a href="http://old.gordon-breuer.de/wp-content/uploads/2013/10/WP_20131015-5.png"><img class="size-medium wp-image-4281" style="border: 10px solid black;" alt="Windows Phone 8 GDR3 Preview - Task-Manager" src="http://anheledirwp.blob.core.windows.net/wordpress/2013/10/WP_20131015-5-180x300.png" width="180" height="300" /></a> Windows Phone 8 GDR3 Preview - Task-Manager[/caption]
+<img class="size-medium wp-image-4281" style="border: 10px solid black;" alt="Windows Phone 8 GDR3 Preview - Task-Manager" src="http://anheledirwp.blob.core.windows.net/wordpress/2013/10/WP_20131015-5-180x300.png" width="180" height="300" />

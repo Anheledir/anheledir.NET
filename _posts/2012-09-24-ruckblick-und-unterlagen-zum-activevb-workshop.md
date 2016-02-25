@@ -15,10 +15,3 @@ Auch ich war mit zwei eigenen Workshops vor-Ort aktiv beteiligt: “Augmented Re
 Das Wochenende bestand aber nicht nur aus Arbeiten, sondern auch aus vielen Gesprächsrunden und diversen Freizeitaktivitäten. Besonderes Highlight war hier sicherlich der Samstagabend mit gemeinsamen Grillen und später dann auch dem einen oder anderem Logik-Rätseln und -Spielen. Angefangen von “Polizeiverhören” bis hin zu psychiatrischen Behandlungen und einem Friesengeist war alles mögliche dabei und hat für viel Spaß und Kurzweile gesorgt!
 
 Leider musste ich am Sonntag relativ schnell nach meinem letzten Vortrag aufbrechen um meinen Zug noch zu erwischen. Aber alles in allem hat das Wochenende unheimlich viel Spaß gemacht und ich möchte mich noch einmal an dieser Stelle beim activeVB e.V. ganz herzlich für die Einladung als Referent bedanken und hoffe, man sieht sich bald mal wieder! :-)
-
-<strong>Vortragsmaterialien:</strong>
-<ul>
-	<li><a href="http://old.gordon-breuer.de/wp-content/uploads/2012/09/AR-Demos.7z">AR-Demos</a> (Demos)</li>
-	<li><a href="http://old.gordon-breuer.de/wp-content/uploads/2012/09/Compiled-Queries.pptx">Compiled Queries</a> (Präsentation)</li>
-	<li><a href="http://old.gordon-breuer.de/wp-content/uploads/2012/09/CompiledQueries.zip">CompiledQueries</a> (Demos)</li>
-</ul>

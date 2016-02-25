@@ -28,4 +28,4 @@ Auch das Tastaturlayout kann seine USA-Herkunft nicht leugnen. Allerdings ist mi
 
 Das Ultrabook liegt mit etwas über einem Kilo noch gut in der Hand und die leicht gummierte Oberfläche / Displayrückseite fühlen sich angenehm griffig an. Stellenweise stört das etwas billig wirkende Plastik am oberen Displayrand, aber für ein Referenz-Modell hat Intel sich hier einige Mühe gemacht und ein solides und zudem flottes Arbeitsgerät mir zur freien Verfügung gestellt - <strong>vielen Dank dafür</strong>!
 
-Wer das Gerät einmal Live sehen möchte, kann beispielsweise einfach nach einem Vortrag vorbei kommen, im September beispielsweise in <a title="CSI: WP – Dem Windows Phone auf der Spur" href="http://old.gordon-breuer.de/events/event/csi-wp-regensburg/">Regensburg </a>und auf der <a title="Sprecher auf der BASTA! 2013" href="http://old.gordon-breuer.de/2013/08/sprecher-auf-der-basta-2013-in-mainz/">BASTA! in Mainz</a>. :-)
+Wer das Gerät einmal Live sehen möchte, kann beispielsweise einfach nach einem Vortrag vorbei kommen, im September beispielsweise in Regensburg und auf der BASTA! in Mainz. :-)

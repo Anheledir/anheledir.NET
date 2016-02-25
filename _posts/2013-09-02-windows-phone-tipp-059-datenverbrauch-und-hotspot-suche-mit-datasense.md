@@ -12,8 +12,6 @@ Schon bei der ersten öffentlichen Präsentation von <strong>Windows Phone 8</st
 <h3>Änderungen mit dem Update</h3>
 Bisher - denn mit dem <strong>GDR2-Update</strong> von Windows Phone wird <strong>DataSense</strong> einer breiteren Öffentlichkeit zur Verfügung gestellt.Die Möglichkeit der <em>serverseitigen Kompression</em> funktioniert auch weiterhin nur bei wenigen Providern, da hierzu deren Infrastruktur angepasst werden müsste. Dennoch ist die Möglichkeit den Trafficverbrauch des Windows Phones im Details kontrollieren zu können schon eine sehr praktische Funktion!
 
-<a style="color: #007ea6;" href="http://old.gordon-breuer.de/wp-content/uploads/2013/09/DataSense-Überblick.jpg"><img class="aligncenter size-medium wp-image-4251" alt="DataSense Überblick-Folie" src="http://gordon-breuer.de/wp-content/uploads/2013/09/DataSense-Überblick-300x1681.jpg" width="300" height="168" /></a>
-
 Der Datenverbrauch wird getrennt protokolliert für <strong>WLAN-Verbindungen</strong> und für <strong>mobile Datenverbindungen</strong> über den Mobilfunkprovider. Für letzteres kann man auch unterschiedliche Limitierungen einstellen:
 <ul>
 	<li>unbekannt</li>

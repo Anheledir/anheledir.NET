@@ -183,6 +183,3 @@ namespace Conversive.PHPSerializationLibrary {
         }
     }
 }</pre>
-<a target="_blank" href="http://dotnet-kicks.de/kick/?url=http://old.gordon-breuer.de/post/2011/05/04/PHP-Un-Serialize-with-C.aspx&amp;title=PHP Un-/Serialize with C#&amp;description=Did you ever had to use a web-service written in PHP that used the proprietary PHP functions to serialize data? Me neither, until a few days ago. It took me some time to find a library that can unserialize those PHP-styled data into C# objects / types. This is my modification of this library to make it compatible with the Windows Phone 7 Silverlight-Subset.">
-                    <img src="http://dotnet-kicks.de/Services/Images/KickItImageGenerator.ashx?url=http://old.gordon-breuer.de/post/2011/05/04/PHP-Un-Serialize-with-C.aspx" border="0" alt="Artikel empfehlen auf .NET-Kicks Deutschland" />
-                  </a>

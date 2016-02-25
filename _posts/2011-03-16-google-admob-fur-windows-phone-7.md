@@ -45,5 +45,3 @@ categories: [Development, Mobile, Werkzeugkiste]
 <p>&nbsp;</p>
 <p>Es hat mich gestern Abend einige M&uuml;he gekostet herauszufinden, woran das liegen k&ouml;nnte. Die L&ouml;sung fand sich schlie&szlig;lich in der Datei <strong>WMAppManifest.xml</strong> im Properties-Ordner. Hier muss unbedingt der <strong>ID_CAP_WEBBROWSERCOMPONENT</strong> gesetzt werden, den ich vor einiger Zeit wegen Nichtverwendung entfernt hatte.</p>
 <p>Kaum wurde die Eigenschaft wieder eingetragen, funktionierte auch das Ad-Control fehlerfrei.</p>
-<p>Viel Spa&szlig; allen beim Geld verdienen! :-)</p>
-<p><a href="http://dotnet-kicks.de/kick/?url=http://old.gordon-breuer.de/post/2011/03/16/Google-AdMob-for-Windows-Phone-7.aspx&amp;title=Google AdMob f&uuml;r Windows Phone 7" target="_blank"> <img src="http://dotnet-kicks.de/Services/Images/KickItImageGenerator.ashx?url=http://old.gordon-breuer.de/post/2011/03/16/Google-AdMob-for-Windows-Phone-7.aspx" border="0" alt="Artikel empfehlen auf .NET-Kicks Deutschland" /> </a></p>

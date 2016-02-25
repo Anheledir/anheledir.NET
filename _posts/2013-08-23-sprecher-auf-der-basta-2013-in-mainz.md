@@ -11,5 +11,3 @@ categories: [Development]
 Aber auch ansonsten sind in dieser Woche wieder zahlreiche bekannte Experten als Sprecher vertreten, unter anderem Dominick Baier, Christian Binder, Gregor Biswanger, Dino Esposito, Matthias Fischer, Daniel Greitens, André Krämer, Neno Loje, Jörg Neumann, Dr. Holger Schwichtenberg, Christian Weyer und viele andere. Mit aktuellsten Themen (Agile, Cloud, Mobile, Web, ModernUI, Datenbanken, ...) und den unterschiedlichsten Tracks ist auch für jeden etwas dabei. Dazu ein abwechslungsreiches Rahmenprogramm und in der Regel eine erstklassige Verpflegung über den ganzen Tag machen die BASTA! zu einer der Top-Konferenzen.
 
 Ich freue mich schon sehr darauf, viele alte - aber auch neue - Gesichter zu sehen und bestimmt wieder die eine oder andere Stunde mit den interessantesten Unterhaltungen zu füllen. Bis (hoffentlich) also demnächst in Mainz :-)
-
-<a title="BASTA! 2013" href="http://old.gordon-breuer.de/events/event/basta-2013/">Link zum Termin</a>

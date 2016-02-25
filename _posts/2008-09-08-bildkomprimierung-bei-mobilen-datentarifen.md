@@ -18,9 +18,6 @@ Schlie&szlig;lich ging mir jetzt am Wochenende die Geduld aus und ich habe mir e
 <p>
 Getestet habe ich es wie gesagt selber mit Vodafone in Deutschland, vermutlich funktioniert es aber auch mit allen anderen Providern die den ByteMobile-Proxy einsetzen. 
 </p>
-<p>
-<img src="http://old.gordon-breuer.de/pics/smileys/GoToNextHS.png" alt="arrow right" width="16" height="16" align="left" /><a href="/page/ByteMobile-Handler.aspx">Zur Webseite des Programms</a> 
-</p>
 [addlang] 
 <p>
 <img style="margin: 0px 10px 0px 0px; border: 0px" src="http://anheledirwp.blob.core.windows.net/wordpress/2008/09/ap_26914_chillhandy_2_3.jpg" border="0" alt="aboutpixel.de / Chillin' phone &copy; Stachurski Michael " title="aboutpixel.de / Chillin' phone &copy; Stachurski Michael " width="145" height="110" align="left" />I&rsquo;m using a Vodafone data tariff for using the internet since a few weeks. Everything works good except the automatically lossy image compression. Vodafone German, just like most other cellphone-provider, has a transparent proxy from ByteMobile to reduce the image quality on-the-fly to reduce the traffic. But there are a lot of applications when this behavior is not desired, for example when watching a photo gallery. 
@@ -31,4 +28,3 @@ There are some solutions for this problem, but neither the Vodafone HighPerforma
 <p>
 Just run this tool everytime after establishing a new connection with your cellphone-provider. It&rsquo;s not memory resistent and takes only a short moment to send the command to the proxy. I tested it with Vodafone Germany but most likely it will also function with other cellphone-provider using the ByteMobile-Proxy. 
 </p>
-<img src="http://old.gordon-breuer.de/pics/smileys/GoToNextHS.png" alt="arrow right" width="16" height="16" align="left" /><a href="/page/ByteMobile-Handler.aspx">Go to the webpage of the tool</a>

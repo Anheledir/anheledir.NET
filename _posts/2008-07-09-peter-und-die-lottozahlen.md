@@ -53,17 +53,3 @@ namespace Anheledir {
     }
   }
 }</pre></div>
-
-<p>Um dem geneigtem Leser nicht den ganzen Spaß zu verderben verrate ich die korrekten Zahlen hier natürlich nicht, stelle aber das lauffähige Programm zum Download bereit. :-)</p>
-
-<p>Kleiner Hinweis: Es gibt grundsätzlich mehrere Ergebnisse, aber da laut der Rätselstellung eine Zahl von „<em>einigen Millionen”</em> verlangt wird, ist eindeutig definiert, welches der Ergebnisse die korrekten Lottozahlen darstellt. Wer dennoch Fragen zum Programm hat darf sich gerne melden. <img alt="Wink" src="http://anheledirwp.blob.core.windows.net/wordpress/2008/07/wink_smile.gif" /></p>
-
-<p></p>
-
-<p></p>
-
-<p></p>
-
-<p></p>
-
-<p><a href="http://anel3a.bay.livefilestore.com/y1p6ZARak_bjNBHi1Uy41rwAVAFJItZM4eKHSV-4chy6_oirQYY7ELPsSuxZaEIVRypYsw0fkAmNtmKTvxde-9quQ/Lotto%20Problem.zip?download" target="_blank"><img alt="" src="http://old.gordon-breuer.de/pics/smileys/download.png" align="left" /></a>&#160;<a href="http://anel3a.bay.livefilestore.com/y1p6ZARak_bjNBHi1Uy41rwAVAFJItZM4eKHSV-4chy6_oirQYY7ELPsSuxZaEIVRypYsw0fkAmNtmKTvxde-9quQ/Lotto%20Problem.zip?download" target="_blank">Lotto Problem.zip (48,6 KB)</a></p>
