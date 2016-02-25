@@ -1,7 +1,8 @@
 ---
 layout: post
+section-type: post
 title: Lorem ipsum im Windows Phone Kalender
-category: .*
+category: Unknown
 tags: []
 ---
 <img class=" wp-image-4111 alignright" alt="Windows Phone Kalender, Monatsansicht" src="http://anheledirwp.blob.core.windows.net/wordpress/2013/08/WP_20130824-180x300.png" width="108" height="180" />Es sind oft ganz alltägliche Dinge, die man gerne mal übersieht. Der Kalender im Windows Phone 7.x und 8.x hat derzeit eine Ansicht für den Tag und für den ganzen Monat. Letztere eignet sich dafür, einen schnellen Überblick über anstehende Termine zu erhalten: Auf den ersten Blick steht der Name des Termins beim jeweiligen Wochentag im Monatskalender. Und tatsächlich, wenn man weitere Einträge hinzufügt, tauchen auch entsprechend viele neue Zeilen bei dem entsprechenden Tag auf. Eigentlich nichts besonderes. Aber schaut man einmal genauer hin, entdeckt man eine Besonderheit: Im Monatskalender steht nicht jeweils die Terminbezeichnung, sondern tatsächlich nur ein Auszug aus dem bekannten Blindtext "Lorem ipsum". Und zwar für jeden Eintrag genau eine Zeile im jeweiligen Tag.

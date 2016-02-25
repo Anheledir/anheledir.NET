@@ -1,5 +1,6 @@
 ---
 layout: post
+section-type: post
 title: WP-Tipp #016 – Das Windows Phone aktualisieren
 date: 2011-09-23 08:00
 author: Gordon Breuer

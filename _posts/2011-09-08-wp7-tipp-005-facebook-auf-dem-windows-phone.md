@@ -1,5 +1,6 @@
 ---
 layout: post
+section-type: post
 title: WP7-Tipp #005 – Facebook auf dem Windows Phone
 date: 2011-09-08 08:00
 author: Gordon Breuer

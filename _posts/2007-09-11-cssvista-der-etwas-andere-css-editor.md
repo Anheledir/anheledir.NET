@@ -2,7 +2,7 @@
 layout: post
 section-type: post
 title: CSSVista - Der etwas andere CSS-Editor
-category: .*
+category: Unknown
 tags: []
 ---
 <p>

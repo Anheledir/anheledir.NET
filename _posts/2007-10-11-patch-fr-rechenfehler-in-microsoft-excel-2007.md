@@ -1,7 +1,8 @@
 ---
 layout: post
+section-type: post
 title: Patch für Rechenfehler in Microsoft Excel 2007
-category: .*
+category: Unknown
 tags: []
 ---
 <p>

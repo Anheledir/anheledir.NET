@@ -1,7 +1,8 @@
 ---
 layout: post
+section-type: post
 title: Cola, Kakao und andere aufmunternde Limonaden
-category: .*
+category: Unknown
 tags: []
 ---
 <p>

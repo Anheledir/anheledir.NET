@@ -2,7 +2,7 @@
 layout: post
 section-type: post
 title: Bildkomprimierung bei mobilen Datentarifen
-category: .*
+category: Unknown
 tags: []
 ---
 <p>

@@ -2,7 +2,7 @@
 layout: post
 section-type: post
 title: Mein Kampf … mit Windows 7 RC
-category: .*
+category: Unknown
 tags: []
 ---
 <p><strong><img style="border-right-width: 0px; margin: 5px 10px 0px 0px; display: inline; border-top-width: 0px; border-bottom-width: 0px; border-left-width: 0px" title="(c) Photocase.com" src="http://anheledirwp.blob.core.windows.net/wordpress/2009/05/photocase4p8qjusd4a78.jpg" border="0" alt="(c) Photocase.com" width="150" height="150" align="left" /> Eigentlich</strong> h&auml;tte alles <strong>ganz</strong> <strong>einfach</strong> sein m&uuml;ssen. Am <strong>05. Mai</strong> das <a href="http://technet.microsoft.com/en-us/evalcenter/dd353205.aspx?ITPID=mscomsc" target="_blank">Image</a> f&uuml;r die <strong>32-Bit</strong> und <strong>64-Bit</strong> Version des neuen <strong>Release Candidate</strong> von <a href="http://www.microsoft.com/windows/windows-7/default.aspx" target="_blank">Windows 7</a> herunterladen, zu Hause kontrollieren ob alle Daten ordnungsgem&auml;&szlig; <strong>gesichert</strong> oder synchronisiert wurden, die neue Version aufspielen und sich &uuml;ber die vielen neuen <a href="http://www.microsoft.com/windows/windows-7/whats-new.aspx" target="_blank">Features und Bugfixes</a> freuen. Eigentlich&hellip;</p>

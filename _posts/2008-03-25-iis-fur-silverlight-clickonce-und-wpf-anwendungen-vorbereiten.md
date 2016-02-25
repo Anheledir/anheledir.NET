@@ -1,7 +1,8 @@
 ---
 layout: post
+section-type: post
 title: IIS für Silverlight-, ClickOnce- und WPF-Anwendungen vorbereiten
-category: .*
+category: Unknown
 tags: []
 ---
 <p>

@@ -1,5 +1,6 @@
 ---
 layout: post
+section-type: post
 title: WP7-Tipp #004 – Signalstärke, Ladezustand der Batterie und andere Infos
 date: 2011-09-07 08:00
 author: Gordon Breuer

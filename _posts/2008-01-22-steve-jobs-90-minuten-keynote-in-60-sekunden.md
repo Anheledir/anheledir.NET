@@ -1,7 +1,8 @@
 ---
 layout: post
+section-type: post
 title: Steve Jobs 90-Minuten-Keynote in 60 Sekunden
-category: .*
+category: Unknown
 tags: []
 ---
 <p>Habe das Video gerade im <a href="http://nibblersrevenge.cluss.de/archive/2008/01/21/the-steve-jobs-90-minute-keynote-in-60-seconds.aspx" target="_blank">Blog von Chris Cluss</a> entdeckt...</p>

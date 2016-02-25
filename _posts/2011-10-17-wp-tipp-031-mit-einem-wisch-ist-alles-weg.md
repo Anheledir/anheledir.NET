@@ -1,5 +1,6 @@
 ---
 layout: post
+section-type: post
 title: WP-Tipp #031 – Mit einem Wisch ist alles weg
 date: 2011-10-17 08:00
 author: Gordon Breuer

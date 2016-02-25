@@ -1,5 +1,6 @@
 ---
 layout: post
+section-type: post
 title: WP-Tipp #043 – WLAN-Benachrichtigung abschalten
 date: 2011-11-02 08:00
 author: Gordon Breuer

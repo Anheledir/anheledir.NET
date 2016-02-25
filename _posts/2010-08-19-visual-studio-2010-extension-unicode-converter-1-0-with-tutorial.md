@@ -2,7 +2,7 @@
 layout: post
 section-type: post
 title: Visual Studio 2010 Extension: Unicode Converter 1.0 (with Tutorial)
-category: .*
+category: Unknown
 tags: []
 ---
 <p><a href="http://visualstudiogallery.msdn.microsoft.com/en-us/fcc87763-32e7-4870-8289-f18ce37b9764"><img class="wlDisabledImage" style="border-right-width: 0px; margin: 0px 10px 10px 0px; display: inline; border-top-width: 0px; border-bottom-width: 0px; border-left-width: 0px" src="http://anheledirwp.blob.core.windows.net/wordpress/2010/08/splashscreen.png" border="0" alt="Unicode Converter V1.0" width="200" height="133" align="left" /></a>For quite some time I&rsquo;m using a tool a co-worker has written to convert some text into &ldquo;websafe&rdquo; text. That&rsquo;s implying the convertion of special characters into html entities wherever possible, otherwise in their corresponding unicode notation <em>(&amp;#0000;</em>), replacing more then one space in a row with non-breaking spaces <em>(&amp;nbsp;</em>), replacing single line-breaks with the corresponding html-tag (<em>&lt;br /&gt;</em>) and also enclosing paragraphs with their html-tag <em>(&lt;p&gt;&hellip;&lt;/p&gt;</em>). Texts converted in this manner are having less or even no encoding problems in any webbrowsers and you don&rsquo;t have to fiddle around with manual adding those paragraph tags.</p>

@@ -1,5 +1,6 @@
 ---
 layout: post
+section-type: post
 title: WP-Tipp #040 – Fotos optimieren
 date: 2011-10-28 12:00
 author: Gordon Breuer

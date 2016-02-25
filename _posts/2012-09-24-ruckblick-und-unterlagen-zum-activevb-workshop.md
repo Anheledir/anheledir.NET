@@ -2,7 +2,7 @@
 layout: post
 section-type: post
 title: Rückblick und Unterlagen zum activeVB-Workshop
-category: .*
+category: Unknown
 tags: []
 ---
 Vom 31. August bis zum 02. September fand dieses Jahr wieder der activeVB-Workshop in Kassel statt, genauer in der Jugendburg und Sportbildungsstätte Sensenstein am Rande des Kaufunger Waldes bei Kassel. Ein ganzes Wochenende hatten die Teilnehmer bei zahlreichen interessanten Sessions die Möglichkeit ihr Wissen in den unterschiedlichsten Bereichen der Programmierung weiterzubilden.

@@ -1,7 +1,8 @@
 ---
 layout: post
+section-type: post
 title: Dateieigenschaften bei Subversion
-category: .*
+category: Unknown
 tags: []
 ---
 <p>Die Versionsverwaltung Subversion hat eine interessante Funktion, auf die mich ein Kollege aufmerksam gemacht hat. Man kann einzelnen Dateien des Repositories bekanntlich verschiedene Eigenschaften zuweisen. Einige waren mir durchaus schon bekannt, wie der Mime-Type (<em>svn:mime-type</em>) oder eine Lock-Markierung (<em>svn:needs-lock</em>). Bisher nicht bekannt war mir die Eigenschaft <strong>svn:keywords</strong> bzw. dessen Anwendungszweck.</p>  <p>Für diese Eigenschaft gibt es verschiedene Werte die man setzen kann:</p>  <ul>   <li>Date </li>    <li>Revision </li>    <li>Author </li>    <li>HeadURL </li>    <li>Id </li> </ul>  <p>Man kann auch mehrere dieser Werte kombinieren indem man sie mit einem Leerzeichen trennt. Was aber bringt einem das jetzt genau?</p>  <p>Nehmen wir an, wir hätten eine Codebehind-Datei mit folgendem Header:</p>  <div class="wlWriterSmartContent" id="scid:812469c5-0cb0-4c63-8c15-c81123a09de7:082c777c-fe57-493f-91b3-e5d1e10cac53" style="padding-right: 0px; display: inline; padding-left: 0px; float: none; padding-bottom: 0px; margin: 0px; padding-top: 0px"><pre name="code" class="c#:nogutter:nocontrols">/*******************************************************************

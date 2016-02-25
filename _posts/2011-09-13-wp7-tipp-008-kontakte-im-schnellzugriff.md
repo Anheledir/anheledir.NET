@@ -1,5 +1,6 @@
 ---
 layout: post
+section-type: post
 title: WP7-Tipp #008 – Kontakte im Schnellzugriff
 date: 2011-09-13 08:00
 author: Gordon Breuer

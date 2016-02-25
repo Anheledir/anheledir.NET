@@ -1,5 +1,6 @@
 ---
 layout: post
+section-type: post
 title: WP7-Tipp #006 – Kontakt aus verschiedenen Quellen kombinieren
 date: 2011-09-09 08:00
 author: Gordon Breuer

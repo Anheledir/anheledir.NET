@@ -1,5 +1,6 @@
 ---
 layout: post
+section-type: post
 title: WP-Tipp #052 – Punkt vor Strich: Der Taschenrechner
 date: 2011-11-16 10:00
 author: Gordon Breuer

@@ -1,7 +1,8 @@
 ---
 layout: post
+section-type: post
 title: Microsoft mit eigenem Uebersetzungs-Service
-category: .*
+category: Unknown
 tags: []
 ---
 <p>

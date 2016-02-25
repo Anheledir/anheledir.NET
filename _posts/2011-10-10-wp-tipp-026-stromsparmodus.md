@@ -1,5 +1,6 @@
 ---
 layout: post
+section-type: post
 title: WP-Tipp #026 – Stromsparmodus
 date: 2011-10-10 08:00
 author: Gordon Breuer

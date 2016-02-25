@@ -1,5 +1,6 @@
 ---
 layout: post
+section-type: post
 title: WP7-Tipp #002 – Das Anwendungs- und Kontextmenü
 date: 2011-09-05 08:00
 author: Gordon Breuer

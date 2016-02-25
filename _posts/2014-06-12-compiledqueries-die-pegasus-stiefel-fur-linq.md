@@ -1,5 +1,6 @@
 ---
 layout: post
+section-type: post
 title: CompiledQueries – Die Pegasus-Stiefel für LINQ
 date: 2014-06-12 21:44
 author: Gordon Breuer

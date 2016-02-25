@@ -1,5 +1,6 @@
 ---
 layout: post
+section-type: post
 title: WP-Tipp #028 – Es gibt mehr als nur SMS und E-Mail: Ihr Handy als universelle Kommunikationszentrale
 date: 2011-10-12 08:00
 author: Gordon Breuer

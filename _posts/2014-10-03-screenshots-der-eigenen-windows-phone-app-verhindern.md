@@ -1,7 +1,8 @@
 ---
 layout: post
+section-type: post
 title: Screenshots der eigenen Windows Phone App verhindern
-category: .*
+category: Unknown
 tags: []
 ---
 <a href="http://anheledirwp.blob.core.windows.net/wordpress/2014/10/CaptureProtectedContent.png"><img class="alignright size-thumbnail wp-image-7178" src="http://anheledirwp.blob.core.windows.net/wordpress/2014/10/CaptureProtectedContent-150x150.png" alt="Cannot capture protected Content" width="150" height="150" /></a>Es kann Situationen geben, in denen man gerne verhindern möchte, dass der Benutzer der eigenen App einen Screenshot (Lautstärke hoch + Ein-/Aus-Button kurz drücken) erstellen kann. Sei es während der Darstellung von internen Zahlen / Daten im Enterprise-Umfeld, oder auch bei einer App wie Snapchat.

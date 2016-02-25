@@ -1,7 +1,8 @@
 ---
 layout: post
+section-type: post
 title: Das Gefangenen-Dilemma
-category: .*
+category: Unknown
 tags: []
 ---
 <p><img style="border-right: 0px; border-top: 0px; margin: 0px 0px 0px 10px; border-left: 0px; border-bottom: 0px" src="http://anheledirwp.blob.core.windows.net/wordpress/2008/03/50JahrePanzerknackerGrafik1_3.jpg" border="0" alt="50JahrePanzerknackerGrafik1" width="193" height="116" align="right" /> Gestern habe ich im Blog von <a href="http://www.justnbusiness.com/Default.aspx" target="_blank">Justin Chase</a> einen <a href="http://www.justnbusiness.com/Blogs/Prisoner's_Dilemma_.NET.aspx" target="_blank">interessanten Beitrag</a> gefunden: Er hat einen kleinen Wettbewerb ins Leben gerufen zum "ber&uuml;hmten" Gefangenen-Dilemma. Bis zum 1. Mai 2008 kann man einen "eigenen Gefangenen" (in Form einer DLL-Datei) mit einer Antwortstrategie erstellen und einschicken. Am Ende werden alle eingesendeten Strategien mehrfach gegeneinander antreten.</p>

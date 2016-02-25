@@ -1,7 +1,8 @@
 ---
 layout: post
+section-type: post
 title: Telefonnummer für den Notfall im Handy
-category: .*
+category: Unknown
 tags: []
 ---
 <p>

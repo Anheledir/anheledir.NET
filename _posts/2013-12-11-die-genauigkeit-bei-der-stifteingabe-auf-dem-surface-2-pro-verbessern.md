@@ -1,5 +1,6 @@
 ---
 layout: post
+section-type: post
 title: Die Genauigkeit bei der Stifteingabe auf dem Surface (2) Pro verbessern
 date: 2013-12-11 15:30
 author: Gordon Breuer

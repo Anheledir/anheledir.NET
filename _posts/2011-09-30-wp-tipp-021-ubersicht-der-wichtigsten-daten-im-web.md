@@ -1,5 +1,6 @@
 ---
 layout: post
+section-type: post
 title: WP-Tipp #021–Übersicht der wichtigsten Daten im Web
 date: 2011-09-30 08:00
 author: Gordon Breuer

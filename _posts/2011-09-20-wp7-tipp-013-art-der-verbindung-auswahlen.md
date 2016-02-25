@@ -1,5 +1,6 @@
 ---
 layout: post
+section-type: post
 title: WP7-Tipp #013 – Art der Verbindung auswählen
 date: 2011-09-20 08:00
 author: Gordon Breuer

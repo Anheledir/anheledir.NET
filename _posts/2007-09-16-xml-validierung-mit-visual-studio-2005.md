@@ -1,7 +1,8 @@
 ---
 layout: post
+section-type: post
 title: XML-Validierung mit Visual Studio 2005
-category: .*
+category: Unknown
 tags: []
 ---
 <p>

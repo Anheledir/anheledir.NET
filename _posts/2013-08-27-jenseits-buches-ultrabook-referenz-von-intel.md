@@ -2,7 +2,7 @@
 layout: post
 section-type: post
 title: Jenseits des Buches: Eine Ultrabook-Referenz von Intel
-category: .*
+category: Unknown
 tags: []
 ---
 Wer heutzutage Software entwickelt hat es nicht leicht: Nicht nur das es die unterschiedlichsten Plattformen gibt, welche für die Entwicklung auch alle ihre eigenen IDEs, SDKs und WTFs haben. Heutige Alltags-Hardware kann auch immer mehr: Beschleunigungssensoren, elektronischer Kompass, GPS, WLAN, Bluetooth, NFC, Gyroskop, Helligkeitssensor, Lagesensoren, Kameras, ... was heute in Geräten so groß wie eine Streichholzschachtel passt ist fast unglaublich. Und es soll immer mehr werden - und immer kleiner, dünner, leichter, langlebiger (<em>Laufzeit</em>).

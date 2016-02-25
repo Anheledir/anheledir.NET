@@ -1,5 +1,6 @@
 ---
 layout: post
+section-type: post
 title: WP7-Tipp #001 – Versionsunterschiede und Updates
 date: 2011-09-02 08:00
 author: Gordon Breuer

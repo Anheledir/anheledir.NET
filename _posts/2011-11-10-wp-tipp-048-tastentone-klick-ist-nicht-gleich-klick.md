@@ -1,5 +1,6 @@
 ---
 layout: post
+section-type: post
 title: WP-Tipp #048 – Tastentöne: “Klick” ist nicht gleich “Klick”!
 date: 2011-11-10 12:00
 author: Gordon Breuer

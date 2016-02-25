@@ -1,7 +1,8 @@
 ---
 layout: post
+section-type: post
 title: An Nikolaus wird gecoded!
-category: .*
+category: Unknown
 tags: []
 ---
 <p style="text-align: center;"><a href="http://www.microsoft.com/germany/msdn/myapp/xmas/nikolaus-hackathon.aspx"><img class="aligncenter  wp-image-6958" alt="Christmas App Revolution" src="http://anheledirwp.blob.core.windows.net/wordpress/2013/11/hero-xmas.jpg" width="736" height="234" /></a></p>

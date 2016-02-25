@@ -1,7 +1,8 @@
 ---
 layout: post
+section-type: post
 title: Zeit für ein zeitloses Posting
-category: .*
+category: Unknown
 tags: []
 ---
 <p>Es ist in letzter Zeit ein wenig ruhiger hier in meinem Blog geworden. Nur ein kleiner Artikel im Dezember bisher, das ist etwas wenig wenn man die zwei bis drei Artikel pro Woche in der Zeit davor betrachtet. Gab es nichts zu berichten? Keine Zeit das berichtenswerte auch schriftlich festzuhalten? Warum dann aber auch so wenig aktuelle Twitter-Nachrichten?</p>

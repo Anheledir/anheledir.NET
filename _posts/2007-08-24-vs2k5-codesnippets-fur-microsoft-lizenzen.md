@@ -2,7 +2,7 @@
 layout: post
 section-type: post
 title: VS2k5 CodeSnippets für Microsoft-Lizenzen
-category: .*
+category: Unknown
 tags: []
 ---
 <p>

@@ -1,7 +1,8 @@
 ---
 layout: post
+section-type: post
 title: jQuery 1.5 Intellisense-Dokumentation für Visual Studio
-category: .*
+category: Unknown
 tags: []
 ---
 <p><a href="http://jquery.com/"><img style="background-image: none; margin: 0px 10px 10px 0px; padding-left: 0px; padding-right: 0px; display: inline; float: left; padding-top: 0px; border: 0px;" title="jQuery-Logo" src="http://anheledirwp.blob.core.windows.net/wordpress/2011/02/jQuery-Logo.png" border="0" alt="jQuery-Logo" width="240" height="59" align="left" /></a>Endlich erschien die beliebte Javascript Bibliothek jQuery in der neuen und fehlerbereinigten Version 1.5. Insgesamt wurden rund 83 Fehlerkorrekturen und 460 Feature- und &Auml;nderungsw&uuml;nsche eingearbeitet. Das betrifft unter anderem das Ajax-Modul, ein neues Feature &ldquo;verz&ouml;gerte Objekte&rdquo; (deferred objects) und eine verbesserte Performance in einigen Bereichen. Weitere Informationen zum eigentlichen Release findet ihr im <a href="http://blog.jquery.com/2011/01/31/jquery-15-released/">jQuery-Blog</a>.</p>

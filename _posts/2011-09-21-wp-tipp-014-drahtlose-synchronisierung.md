@@ -1,5 +1,6 @@
 ---
 layout: post
+section-type: post
 title: WP-Tipp #014 – Drahtlose Synchronisierung
 date: 2011-09-21 08:00
 author: Gordon Breuer

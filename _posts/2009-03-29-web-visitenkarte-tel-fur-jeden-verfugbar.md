@@ -1,7 +1,8 @@
 ---
 layout: post
+section-type: post
 title: Web-Visitenkarte .tel für jeden verfügbar
-category: .*
+category: Unknown
 tags: []
 ---
 <p><a href="http://telnic.com/" target="_blank"><img style="border-right-width: 0px; margin: 0px 10px 5px 0px; display: inline; border-top-width: 0px; border-bottom-width: 0px; border-left-width: 0px" title="Telnic" src="http://anheledirwp.blob.core.windows.net/wordpress/2009/03/Telnic.gif" border="0" alt="Telnic" width="162" height="80" align="left" /></a> Es hat viele Versuche gegeben eine Art Telefonbuch f&uuml;r das Internet bereitzustellen und zu etablieren. Der j&uuml;ngste Versuch ist sicherlich die neue TLD (<em>Top Level Domain</em>) &ldquo;.tel&rdquo;, deren Landrush-Phase am 23. M&auml;rz endete und seit nunmehr einigen Tagen f&uuml;r alle verf&uuml;gbar ist. Mit einer solchen .tel-Domain k&ouml;nnen die eigenen bzw. Firmenkontaktdaten und auch Schl&uuml;sselw&ouml;rter in Echtzeit unter einem gew&auml;hlten Domain-Namen gespeichert, ver&ouml;ffentlicht und aktualisiert werden. Hierbei wird ein f&uuml;r Domains eher ungew&ouml;hnlicher Weg gegangen: Die Domain zeigt nicht etwa auf einen eigenen Webserver sondern s&auml;mtliche Daten werden zentral bei der telNIC, der Vergabestelle f&uuml;r .tel-Domains, im DNS gespeichert und verwaltet. &Uuml;ber eine einfache Weboberfl&auml;che hat man dennoch die volle Kontrolle &uuml;ber alle bereitgestellten Daten.</p>

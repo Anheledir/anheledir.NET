@@ -1,7 +1,8 @@
 ---
 layout: post
+section-type: post
 title: 10 Tools und Add-Ins die zu Visual Studio einfach dazu gehören
-category: .*
+category: Unknown
 tags: []
 ---
 <p>

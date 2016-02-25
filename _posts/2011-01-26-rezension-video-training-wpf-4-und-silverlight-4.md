@@ -2,7 +2,7 @@
 layout: post
 section-type: post
 title: Rezension: Video-Training “WPF 4 und Silverlight 4”
-category: .*
+category: Unknown
 tags: []
 ---
 <p>Bei <a href="http://www.video2brain.com/de/index.htm">video2brain</a> im Addison-Wesley Verlag ist das Video-Training &ldquo;<a href="http://www.video2brain.com/de/products-635.htm">WPF 4 und Silverlight 4</a>&rdquo; von <a title="Every day is an experience!" href="http://www.dotnet-blog.net">Gregor Biswanger</a>, der einigen schon als Autor aus Fachmagzonen wie die dotnetpro oder die visualstudio1 bekannt ist, erschienen. Das Training kostet 49,80 EUR und hat eine Gesamtlaufzeit von rund 13 Stunden, welche sich in 19 Hauptkategorien aufteilen:</p>

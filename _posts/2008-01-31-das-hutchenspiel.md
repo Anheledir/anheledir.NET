@@ -1,7 +1,8 @@
 ---
 layout: post
+section-type: post
 title: Das Hütchenspiel
-category: .*
+category: Unknown
 tags: []
 ---
 <p>

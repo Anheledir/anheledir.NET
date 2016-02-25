@@ -1,5 +1,6 @@
 ---
 layout: post
+section-type: post
 title: WP7-Tipp #012 – Wozu die Zune-Software?
 date: 2011-09-19 08:00
 author: Gordon Breuer

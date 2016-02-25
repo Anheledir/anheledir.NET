@@ -1,7 +1,8 @@
 ---
 layout: post
+section-type: post
 title: Waze im Praxistest
-category: .*
+category: Unknown
 tags: []
 ---
 <img class="alignleft size-thumbnail wp-image-6950" style="margin-right: 10px; margin-bottom: 10px;" alt="Social-Navigation Waze von Google" src="http://anheledirwp.blob.core.windows.net/wordpress/2013/11/f9eddd98-7126-4f41-8371-9fd2e22c6a77-150x150.png" width="150" height="150" />Vor wenigen Tagen ist die Social-Navigations-App Waze auch als Windows Phone App erschienen. Auf anderen Plattformen schon seit langem ein großer Erfolg war die Hoffnung, als Google das Unternehmen Mitte des Jahres übernommen hatte, eher gering geworden in nächster Zeit noch eine App für die Redmonder Smartphone-Plattform zu bekommen. Jetzt ist die Freude zunächst groß, aber natürlich muss sich Waze auch im Praxiseinsatz gegen den Konkurrenten HERE Drive(+) behaupten.

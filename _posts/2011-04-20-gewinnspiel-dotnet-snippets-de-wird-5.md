@@ -1,7 +1,8 @@
 ---
 layout: post
+section-type: post
 title: Gewinnspiel: dotnet-snippets.de wird 5!
-category: .*
+category: Unknown
 tags: []
 ---
 <p><a href="http://dotnet-snippets.de/dns/5-Jahre.aspx?guid=d23f04f8-9bca-4b54-91f8-56767bdf5c90"><img style="background-image: none; border-right-width: 0px; padding-left: 0px; padding-right: 0px; display: block; float: none; border-top-width: 0px; border-bottom-width: 0px; margin-left: auto; border-left-width: 0px; margin-right: auto; padding-top: 0px" title="DNS---Banner---5.-Geburtstag" border="0" alt="DNS---Banner---5.-Geburtstag" src="http://anheledirwp.blob.core.windows.net/wordpress/2011/04/DNS-Banner-5.-Geburtstag.png" width="545" height="111" /></a></p>  <p>Die deutschsprachige Anlaufstelle, wenn es um hilfreiche Snippets für die Entwicklung mit dem Microsoft .NET-Framework geht, feiert die Tage ihren 5. Geburtstag: <strong>Alles Gute!</strong> :-)</p>  <p>Aber eigentlich hat Jan vermutlich nur wieder einen Grund gesucht, um ein paar richtig tolle Preise unter die Leute zu werfen! Da gibt es dieses mal ein <strong>Visual Studio 2010 Professional</strong>, <strong>Office Professional Plus</strong>, <strong>zahlreiche Bücher </strong>oder ein <strong>Jahres-Abonnement der dotnetpro</strong>.</p>  <p>Mitmachen kann man <strong>ab sofort bis Mittwoch, 4. Mai. 2011</strong> unter <a href="http://dotnet-snippets.de/dns/5-Jahre.aspx?guid=d23f04f8-9bca-4b54-91f8-56767bdf5c90">dotnet-snippets.de</a> – keine Fragen, keine Rätsel, nur ein wenig kreativ soll man sein wenn man dotnet-snippets.de zum Geburtstag gratuliert; beispielsweise per Blog-Posting, einem Beitrag in einem Forum, … </p>  <p><strong>Freuen wir uns also alle auf weitere 5 Jahre DNS!</strong></p>

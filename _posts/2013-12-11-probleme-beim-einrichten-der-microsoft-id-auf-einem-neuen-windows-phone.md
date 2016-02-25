@@ -1,5 +1,6 @@
 ---
 layout: post
+section-type: post
 title: Probleme beim Einrichten der Microsoft-ID auf einem neuen Windows Phone
 date: 2013-12-11 14:11
 author: Gordon Breuer

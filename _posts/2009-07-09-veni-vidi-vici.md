@@ -1,7 +1,8 @@
 ---
 layout: post
+section-type: post
 title: Veni, vidi, vici
-category: .*
+category: Unknown
 tags: []
 ---
 <p>Schon Julius C&auml;sar hat die elegant formulierte alliteriende Klimax dreier asyndetischer Zweisilber &ldquo;<strong>Veni, vidi, vici</strong>&rdquo; (lat. &ldquo;<strong>ich kam, ich sah, ich siegte</strong>&rdquo;) 47 v. Chr. verwendet, um seinen schnellen und vernichtenden Schlag gegen Pharnakes II. zu beschreiben. (<em>Quelle: <a href="http://de.wikipedia.org/wiki/Veni_vidi_vici" target="_blank">Wikipedia</a></em>).</p>

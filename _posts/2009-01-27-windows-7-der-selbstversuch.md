@@ -2,7 +2,7 @@
 layout: post
 section-type: post
 title: Windows 7 – Der Selbstversuch
-category: .*
+category: Unknown
 tags: []
 ---
 <h2>Die Entscheidung</h2>

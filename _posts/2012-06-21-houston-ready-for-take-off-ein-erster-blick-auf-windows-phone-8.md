@@ -1,7 +1,8 @@
 ---
 layout: post
+section-type: post
 title: „Houston, ready for Take-off!“ - Ein erster Blick auf Windows Phone 8
-category: .*
+category: Unknown
 tags: []
 ---
 <p><img style="float: left; margin: 20px 10px 10px 0px;" src="/image.axd?picture=2012%2f6%2f2134_StartScreen_Elizabeth29_thumb_5A2D1B5A.png" alt="" /></p>

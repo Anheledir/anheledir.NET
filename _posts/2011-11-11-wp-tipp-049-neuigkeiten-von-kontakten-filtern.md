@@ -1,5 +1,6 @@
 ---
 layout: post
+section-type: post
 title: WP-Tipp #049 – Neuigkeiten von Kontakten filtern
 date: 2011-11-11 12:00
 author: Gordon Breuer

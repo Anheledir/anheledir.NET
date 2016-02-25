@@ -1,7 +1,8 @@
 ---
 layout: post
+section-type: post
 title: Retrospektive 2013
-category: .*
+category: Unknown
 tags: []
 ---
 <img alt="" src="http://anheledirwp.blob.core.windows.net/wordpress/2014/01/010314_2323_Retrospekti1.png" align="left" />Das Jahr 2013 ist vorüber und ein frisches und unverbrauchtes 2014 ist angebrochen. Eine gute Gelegenheit, um einen Blick zurück auf die vergangenen 12 Monate meiner Community-Aktivitäten zu werfen – im Prinzip also eine Retrospektive bevor der neue Sprint "2014" beginnt. Alles in allem bin ich sehr zufrieden mit dem Ergebnis, aber gehen wir der Reihe nach vor. <span style="font-family: Wingdings;">J</span>

@@ -1,5 +1,6 @@
 ---
 layout: post
+section-type: post
 title: WP-Tipp #018 – Auf die Kamera, fertig, los!
 date: 2011-09-27 08:00
 author: Gordon Breuer

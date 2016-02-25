@@ -1,5 +1,6 @@
 ---
 layout: post
+section-type: post
 title: WP-Tipp #035 – Internet Explorer 9
 date: 2011-10-21 10:00
 author: Gordon Breuer

@@ -1,7 +1,8 @@
 ---
 layout: post
+section-type: post
 title: Maxdome im Vista Mediacenter verfügbar
-category: .*
+category: Unknown
 tags: []
 ---
 <p><a href="http://www.maxdome.de" target="_blank"><img style="margin: 0px 10px 5px 0px; border-width: 0px" src="http://anheledirwp.blob.core.windows.net/wordpress/2008/05/maxdome_online_3.jpg" border="0" alt="maxdome_online" width="116" height="54" align="left" /></a> Schon seit langem angek&uuml;ndigt ist es jetzt endlich verf&uuml;gbar: Nach der Installation eines <a href="http://www.maxdome.de/special/mediacenter/" target="_blank">Zusatzprogramms</a> kann man ab sofort alle Videos aus dem Maxdome-Portal auch &uuml;ber das Media Center von Microsoft ansehen. Der Download ist 4.23 MB gro&szlig; und schnell installiert. Allerdings befindet sich die Software offiziell noch im Beta-Stadium und ist auch nur f&uuml;r das Vista Mediacenter verf&uuml;gbar. Nutzer der XP-Edition m&uuml;ssen also weiterhin auf die Online-Videothek verzichten.</p>

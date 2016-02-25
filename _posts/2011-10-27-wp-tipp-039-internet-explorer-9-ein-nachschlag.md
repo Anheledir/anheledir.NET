@@ -1,5 +1,6 @@
 ---
 layout: post
+section-type: post
 title: WP-Tipp #039 – Internet Explorer 9, ein Nachschlag
 date: 2011-10-27 10:00
 author: Gordon Breuer

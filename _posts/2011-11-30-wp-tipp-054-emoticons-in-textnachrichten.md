@@ -1,5 +1,6 @@
 ---
 layout: post
+section-type: post
 title: WP-Tipp #054 – Emoticons in Textnachrichten
 date: 2011-11-30 15:00
 author: Gordon Breuer

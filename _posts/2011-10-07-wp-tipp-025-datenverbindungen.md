@@ -1,5 +1,6 @@
 ---
 layout: post
+section-type: post
 title: WP-Tipp #025 – Datenverbindungen
 date: 2011-10-07 08:00
 author: Gordon Breuer

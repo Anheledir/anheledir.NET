@@ -2,7 +2,7 @@
 layout: post
 section-type: post
 title: Das Windows Phone als Webbrowser erkennen
-category: .*
+category: Unknown
 tags: []
 ---
 <p>Es ist vollbracht! Sie haben nach wochenlanger Planung, Programmierung und Testen endlich ihre Windows Phone 7 Anwendung fertiggestellt und im Marketplace ver&ouml;ffentlicht. Gehen wir einmal von einer Webanwendung aus, beispielsweise ein CMS oder ein Eventplaner. Ihre Besucher wissen vielleicht gar nicht, dass es inzwischen eine App gibt um die Verwendung zu vereinfachen. Nat&uuml;rlich, man kann einen Link, einen Button oder auch eine ganze Supporseite zur Verf&uuml;gung stellen. Doch vor allem auf dem kleinen Display eines Handys wird der Nutzer meistens nur auf ihm bekannte und wichtige Elemente achten, bsp. zum Anmelden. Viel einfacher w&auml;re es, wenn die Seite selber merken w&uuml;rde, dass der aktuelle Besucher eine bessere Option in Form einer App h&auml;tte.</p>

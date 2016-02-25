@@ -2,7 +2,7 @@
 layout: post
 section-type: post
 title: Der leidenschaftliche Programmierer: Eine Rezension
-category: .*
+category: Unknown
 tags: []
 ---
 <blockquote>

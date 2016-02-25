@@ -1,5 +1,6 @@
 ---
 layout: post
+section-type: post
 title: WP7-Tipp #009 – Rund um die Anwendungen
 date: 2011-09-14 08:00
 author: Gordon Breuer

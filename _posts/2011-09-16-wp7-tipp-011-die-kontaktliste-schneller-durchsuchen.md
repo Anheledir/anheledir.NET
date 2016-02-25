@@ -1,5 +1,6 @@
 ---
 layout: post
+section-type: post
 title: WP7-Tipp #011 – Die Kontaktliste schneller durchsuchen
 date: 2011-09-16 08:00
 author: Gordon Breuer

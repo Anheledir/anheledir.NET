@@ -1,5 +1,6 @@
 ---
 layout: post
+section-type: post
 title: WP7-Tipp #007 – Standard-Gesten
 date: 2011-09-12 08:00
 author: Gordon Breuer

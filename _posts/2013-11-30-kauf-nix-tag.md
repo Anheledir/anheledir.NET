@@ -1,7 +1,8 @@
 ---
 layout: post
+section-type: post
 title: Kauf-Nix-Tag
-category: .*
+category: Unknown
 tags: []
 ---
 <em>Ursprünglich als Buy Nothing Day 1992 von einer kanadischen Werbeagentur erfunden; letzter Freitag (Nordamerika) bzw. Samstag (Europa) im November</em>

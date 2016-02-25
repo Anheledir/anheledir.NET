@@ -1,5 +1,6 @@
 ---
 layout: post
+section-type: post
 title: WP7-Tipp #010 – E-Mails am laufenden Band bearbeiten
 date: 2011-09-15 08:00
 author: Gordon Breuer
