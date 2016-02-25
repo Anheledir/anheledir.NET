@@ -1,7 +1,7 @@
 ---
 layout: post
 section-type: post
-title: Jenseits des Buches: Eine Ultrabook-Referenz von Intel
+title: Jenseits des Buches - Eine Ultrabook-Referenz von Intel
 category: Unknown
 tags: []
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 section-type: post
-title: Unglaublich aber wahr: Instagram und Waze für Windows Phone erschienen
+title: Unglaublich aber wahr - Instagram und Waze für Windows Phone erschienen
 category: Unknown
 tags: []
 ---

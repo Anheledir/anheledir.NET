@@ -1,7 +1,7 @@
 ---
 layout: post
 section-type: post
-title: Rezension: Video-Training “WPF 4 und Silverlight 4”
+title: Rezension - Video-Training “WPF 4 und Silverlight 4”
 category: Unknown
 tags: []
 ---

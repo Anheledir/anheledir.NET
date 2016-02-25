@@ -1,7 +1,7 @@
 ---
 layout: post
 section-type: post
-title: Der leidenschaftliche Programmierer: Eine Rezension
+title: Der leidenschaftliche Programmierer - Eine Rezension
 category: Unknown
 tags: []
 ---

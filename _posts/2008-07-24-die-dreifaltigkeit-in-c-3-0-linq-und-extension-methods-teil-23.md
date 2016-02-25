@@ -1,7 +1,7 @@
 ---
 layout: post
 section-type: post
-title: Die Dreifaltigkeit in C# 3.0: λ, LINQ und Extension-Methods (Teil 2/3)
+title: Die Dreifaltigkeit in C# 3.0 - λ, LINQ und Extension-Methods (Teil 2/3)
 category: Unknown
 tags: []
 ---

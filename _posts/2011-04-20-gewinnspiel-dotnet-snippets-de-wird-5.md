@@ -1,7 +1,7 @@
 ---
 layout: post
 section-type: post
-title: Gewinnspiel: dotnet-snippets.de wird 5!
+title: Gewinnspiel - dotnet-snippets.de wird 5!
 category: Unknown
 tags: []
 ---

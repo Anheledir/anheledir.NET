@@ -1,7 +1,7 @@
 ---
 layout: post
 section-type: post
-title: Visual Studio 2010 Extension: Unicode Converter 1.0 (with Tutorial)
+title: Visual Studio 2010 Extension - Unicode Converter 1.0 (with Tutorial)
 category: Unknown
 tags: []
 ---

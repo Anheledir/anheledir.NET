@@ -1,7 +1,7 @@
 ---
 layout: post
 section-type: post
-title: WP-Tipp #062 – High-Five: Inhalte mit NFC teilen
+title: WP-Tipp #062 – High-Five - Inhalte mit NFC teilen
 date: 2013-10-09 17:21
 author: Gordon Breuer
 comments: true
