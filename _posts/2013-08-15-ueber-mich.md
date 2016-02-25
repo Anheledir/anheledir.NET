@@ -1,10 +1,9 @@
 ---
-layout: page
+layout: post
+section-type: post
 title: Über mich
-date: 2013-08-15 16:15
-author: Gordon Breuer
-comments: true
-categories: []
+category: 
+tags: []
 ---
 [wptab name='Abstract']
 

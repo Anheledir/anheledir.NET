@@ -1,10 +1,9 @@
 ---
-layout: page
+layout: post
+section-type: post
 title: App Privacy
-date: 2013-11-29 22:32
-author: Gordon Breuer
-comments: true
-categories: []
+category: 
+tags: []
 ---
 <h2>Network Capabilities</h2>
 This application uses the network to get the data from the <strong>anheledir.NET </strong>blog, and send your comment as the data you share.

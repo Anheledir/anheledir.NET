@@ -1,10 +1,9 @@
 ---
-layout: page
+layout: post
+section-type: post
 title: Als Sprecher und Trainer unterwegs: Mein Vortrags-Portfolio
-date: 2013-11-20 14:30
-author: Gordon Breuer
-comments: true
-categories: []
+category: 
+tags: []
 ---
 Ich bin als Sprecher für die unterschiedlichsten Themengebiete immer wieder im ganzen deutschsprachigen Raum unterwegs auf Konferenzen, bei Usergroups, Open Spaces, ... - wenn Sie noch einen Sprecher suchen für einen der nachfolgenden Themenbereiche, melden Sie sich bitte einfach bei mir! Entweder per E-Mail oder auch telefonisch, die jeweiligen Angaben finden Sie im Impressum. Das Thema, den Umfang (<em>Vortrag, Diskussions-Runde / Moderation, Workshop, ...</em>) und alle weiteren Einzelheiten können wir dann im persönlichen Gespräch klären.
 

@@ -1,10 +1,9 @@
 ---
-layout: page
+layout: post
+section-type: post
 title: Wir bauen eine Lego-Stadt - mit SCRUM!
-date: 2013-11-20 14:34
-author: Gordon Breuer
-comments: true
-categories: []
+category: 
+tags: []
 ---
 <img class="alignleft size-thumbnail wp-image-6930" style="margin-right:10px; margin-bottom:10px;" alt="Wir bauen eine Lego-Stadt - mit SCRUM!" src="http://anheledirwp.blob.core.windows.net/wordpress/2013/11/SCRUM-150x150.png" width="150" height="150" />Der österreichische Aphoristiker Markus Wurzer sagte einmal: "Flexibel sei der Mensch, dynamisch und agil." - ob er dabei auch das Vorgehen in Projekten vor Augen hatte ist nicht bekannt. Aber es ist anzunehmen, dass SCRUM ihm gefallen würde. In den letzten Jahren immer mehr zum Hypethema geworden gibt es heute kaum noch Menschen in der IT, die noch nie mit einem agilen Vorgehensmodell konfrontiert worden sind. SCRUM ist dabei sicherlich das am häufigsten genannte und bedarf deshalb auch eines genaueren Blicks.
 
