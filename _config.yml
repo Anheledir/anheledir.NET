@@ -1,179 +1,200 @@
+title:            anheledir.NET
+description:      "IT Architecture, Cloud Computing, Development, Microsoft Technologies"
+logo:             omikron.png
+disqus_shortname: anheledir
+# Assign a default image for your site's header and footer
+default_bg:       default_bg1.jpg
+search:           true
+share:            true
+# Read Time is a calculator tp provide post read-time based on word count. Usage is recommended.
+readtime:         true
+# Specify the average Words per minute. If not defined, 180 will be used
+wpm:				      200
+# Turn on or off the fin animations in the header and footer
+triangleheader:		true
+animated_fins:	  true
+# Specify the fin color in RGB value
+fin_color:        "255,255,255"
+# Change url to your domain. Leave localhost server or blank when working locally.
+# or use the hint from http://jekyllrb.com/docs/github-pages/ to keep this the same 
+# whether working locally or remotely. Start Jekyll with: jekyll serve --baseurl ''
+url:       		   https://anheledir.net
 
-# Site settings
+# Owner/author information
+owner:
+  name:           Gordon Breuer
+  avatar:         hmfaysal.jpg
+  email:          mail@gordon-breuer.de
+  # Use the coder's toolbox at http://coderstoolbox.net/string/#!encoding=xml&action=encode&charset=us_ascii to encode your description into XML string
+  description:    I&#39;m a addicted C#/.NET developer, key aspecting the Windows Universal App Platform, IT-Architecture &amp; Game-Development, and designer of digital &amp; print media who also loves writing. Caution: cynic!
+  # Social networking links used in footer. Update and remove as you like.
+  twitter:        anheledir
+  facebook:       gordon.breuer
+  github:         anheledir
+  stackexchange:  http://stackexchange.com/users/3895/anheledir
+  linkedin:       https://de.linkedin.com/in/gordonbreuer
+  instagram:      
+  flickr:         
+  tumblr:         
+  # For Google Authorship https://plus.google.com/authorship
+  google_plus:    
 
-# NB! Set your site's url, otherwise stuff will break :)
+# Analytics and webmaster tools stuff goes here
+google_analytics:   
+google_verify:      
+# https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
+bing_verify:         
 
-url: "https://anheledir.net"
+# Links to include in footer navigation
+# For external links add external: true
+links:
+  - title: Home
+    url: /
+    external: false
+    icon: home
+  - title: <i class="icon-book"></i> Documentation
+    url: /documentation
+  - title: Categories
+    url: /categories
+  - title: Tags
+    url: /tags
 
-# If you're hosting your site at a Project repository on GitHub pages
-# (https://yourusername.github.io/repository-name)
-# and NOT your user repository (https://yourusername.github.io)
-# then add in the baseurl here, like this: "/repository-name"
-#
-# NB! Without this *nothing* will work, because it's used in every path :)
+# http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone:    Europe/Berlin
+future:      true
+highlighter: pygments
+markdown:    kramdown
+paginate:    6
+paginate_path: "page:num"
 
-baseurl: ""
+# https://github.com/mojombo/jekyll/wiki/Permalinks
+permalink:   /:categories/:title
 
-# Google tracking id to track your visitors
+kramdown:
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  use_coderay: false
 
-google-tracking-id: ""
+  coderay:
+    coderay_line_numbers: 
+    coderay_line_numbers_start: 1
+    coderay_tab_width: 4
+    coderay_bold_every: 10
+    coderay_css: class
 
-# Forces https everywhere in your website, except when you serve it locally
-# If you are not hosted on Github Pages, and your host doesn't support https
-# then you should disable it
+prose:
+  rooturl: '_posts'
+  siteurl: 'https://anheledir,net/'
+  relativeLinks: 'https://anheledir.net/links.jsonp'
+  media: 'images'
+  metadata:
+    _posts:
+      - name: "published"
+        field:
+          label: "Published"
+          element: "checkbox"
+          value: "true"
+      - name: "layout"
+        field:
+          element: "hidden"
+          label: "Layout"
+          value: "post"
+      - name: "type"
+        field:
+          element: "select"
+          label: "Select Post Type"
+          placeholder: "Choose your type"
+          options:
+            - name: "Standard"
+              value: 
+            - name: "Quote"
+              value: quote
+            - name: "Status"
+              value: status
+            - name: "Photo"
+              value: photo
+            - name: "Video"
+              value: video
+      - name: "title"
+        field:
+          label: "Title"
+          element: "text"
+          value: "An Awesome Headline!"
+      - name: "description"
+        field:
+          element: "text"
+          label: "Description"
+          placeholder: "Enter Post Description"
+      - name: "headline"
+        field:
+          element: "text"
+          label: "beadline"
+          placeholder: "Enter Post Headline"
+      - name: "modified"
+        field:
+          element: "text"
+          label: "Has this page been modified?"
+          placeholder: "YYYY-MM-DD"
+      - name: "categories"
+        field:
+          element: "multiselect"
+          label: "Add categories"
+          placeholder: "Choose categories"
+          value: personal
+          options:
+            - name: "Personal"
+              value: personal
+            - name: "Web-Development"
+              value: webdevelopment
+            - name: "Interesting"
+              value: interesting
+            - name: "Status"
+              value: status
+            - name: "Quotes"
+              value: quotes
+          alterable: true
+      - name: "tags"
+        field:
+          element: "text"
+          label: "Tags"
+          placeholder: "Enter tags, separated by spaces"
+      - name: "imagefeature"
+        field:
+          element: "text"
+          label: "Featured Image"
+          placeholder: "somefile.jpg"
+      - name: "imagecredit"
+        field:
+          element: "text"
+          label: "Image Credit"
+          placeholder: "some guy"
+      - name: "imagecreditlink"
+        field:
+          element: "text"
+          label: "Credit link for the image"
+          placeholder: "http://somewebsite.com"
+      - name: "video"
+        field:
+          element: "text"
+          label: "Insert Youtube Link"
+          placeholder: "http://youtube.com/somevideo"
+      - name: "mathjax"
+        field:
+          element: "checkbox"
+          label: "MathJax"
+          value: false
+      - name: "featured"
+        field:
+          element: "checkbox"
+          label: "Featured?"
+          value: false
+      - name: "comments"
+        field:
+          element: "checkbox"
+          label: "Comments"
+          value: false
 
-force-https: True
-
-#############
-# HTML Head #
-#############
-
-lang: "en"
-author: "Gordon Breuer"
-title: "{ anheledir.NET }"
-description: "Gordon Breuer's blog about IT-Architecture, Developing and mainly Microsoft Technologies. Opinions expressed are mine."
-keywords: "gordon, breuer, windows, uwp, windows phone, windows mobile, windows 10, universal apps, xaml, architect, media design, microsoft, dotnet, mobile, augmented reality, consultant, developer"
-favicon: "/img/favicon.ico"
-404-img: "/img/labtocat.png"
-
-################
-# Header layout #
-################
-
-black-favicon: "/img/black-lab-glass.ico"
-
-background-img: "../img/intro-bg.jpg"
-
-##############################
-# Dynamic Text on the Header #
-##############################
-
-dynamic-typing: True
-shuffle: True # Shuffle the lines.
-loop: True
-loop-count: False # Set False for infinite loop, or set any number for finite loop.
-type-speed: 5
-start-delay: 200
-delete-delay: 5000
-lines: # You can add HTML Tags in the Text
-  - text: "The lower you fall, the higher you'll fly."
-  - text: "Where’s your will to be weird?"
-
-me-img: "/img/jetpacktocat.png"
-
-##############################
-# Color the browser elements #
-##############################
-color-browser: "#000000"
-apple-status-bar-style: "black"
-
-################
-# Web app mode #
-################
-
-web-app-mode: True
-
-# Icons for Web App mode
-
-icon-36p: "/img/web-app/icon-36p.png"
-icon-48p: "/img/web-app/icon-48p.png"
-icon-72p: "/img/web-app/icon-72p.png"
-icon-96p: "/img/web-app/icon-96p.png"
-icon-144p: "/img/web-app/icon-144p.png"
-icon-192p: "/img/web-app/icon-192p.png"
-
-########
-# Blog #
-########
-
-post-preview-words: 96
-
-paginate: 5
-
-email-share: True
-fb-share: True
-twitter-share: True
-linkedin-share: True
-reddit-share: True
-google-plus-share: True
-tumblr-share: True
-pinterest-share: True
-pocket-share: True
-vkontakte-share: True
-
-disqus-shortname: "Anheledir"
-
-syntax-highlight: True
-
-############
-# Timeline #
-############
-
-events:
-#  - image: "/img/timeline/spidertocat.png"
-#    date: "September 2013 - Today"
-#    description: "Saving the neighborhood!"
-#  - image: "/img/timeline/baracktocat.jpg"
-#    date: "September 2007 - August 2013"
-#    description: "Started coding"
-
-# First image of the Timeline
-
-timeline-img: "/img/timeline/default.png"
-
-###########
-# Contact #
-###########
-
-email: "mail@gordon-breuer.de"
-
-##################
-# Social Buttons #
-##################
-
-social:
-  - title: "facebook"
-    url: "https://facebook.com/gordon.breuer"
-  - title: "twitter"
-    url: "https://twitter.com/anheledir"
-  - title: "github"
-    url: "https://github.com/Anheledir"
-  - title: "rss"
-    url: "/feed.xml"
-
-############
-# 404 page #
-############
-
-404-img: "/img/labtocat.png"
-
-################################################################################
-
-# NB! Tread carefully if you want to change the variables below this point!
-
-# Sections shown in the index page
-
-pages_list:
-  About: 'about'
-  Blog: 'latest-post'
-  Timeline: 'timeline'
-  Contact: 'contact'
-
-# Exclusion list from the generated _site
-
-exclude: ["LICENSE", "README.md", "CONTRIBUTING", "CONTRIBUTORS", "scripts", "Tutorial"]
-
-# Pagination path
-
-paginate_path: "blog/page:num/"
-
-
-# Enable minification SASS
-
-sass:
-  style: compressed
-
-gems:
-  - jekyll-paginate
-  - jekyll-gist
-  - emoji_for_jekyll
+include: [".htaccess"]
+exclude: ["lib", "config.rb", "Gemfile", "Capfile", "Gemfile.lock", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules"]
