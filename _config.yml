@@ -26,7 +26,7 @@ owner:
   avatar:         hmfaysal.jpg
   email:          mail@gordon-breuer.de
   # Use the coder's toolbox at http://coderstoolbox.net/string/#!encoding=xml&action=encode&charset=us_ascii to encode your description into XML string
-  description:    I&#39;m a addicted C#/.NET developer, key aspecting the Windows Universal App Platform, IT-Architecture &amp; Game-Development, and designer of digital &amp; print media who also loves writing. Caution: cynic!
+  description:    I&#39;m a addicted C#/.NET developer, key aspecting the Windows Universal App Platform, IT-Architecture &amp; Game-Development, and designer of digital &amp; print media who also loves writing. Caution - cynic!
   # Social networking links used in footer. Update and remove as you like.
   twitter:        anheledir
   facebook:       gordon.breuer
