@@ -1,10 +1,8 @@
 ---
 layout: post
 title: Microsoft mit eigenem Uebersetzungs-Service
-date: 2007-09-10 10:34
-author: Gordon Breuer
-comments: true
-category: Werkzeugkiste
+category: .*
+tags: []
 ---
 <p>
 <img style="margin: 0px 10px 10px 0px" src="http://www.dialuogo.it/pics/uebersetzung.jpg" alt="" width="201" height="150" align="left" /> Auch Microsoft hat nun einen <a href="http://translator.live.com/" target="_blank">eigenen &Uuml;bersetzungs-Service</a> im Rahmen seines Live-Programmes gestartet. Es wird dabei &auml;hnlich wie bei Google oder Babelfish zum Teil auf die Software von <a href="http://www.systransoft.com" target="_blank">Systran</a> gesetzt. Allerdings sind die &Uuml;bersetzungen nicht ganz identisch - die Vermutung liegt nahe, dass Microsoft eine aktuellere Version der Engine einsetzt. 

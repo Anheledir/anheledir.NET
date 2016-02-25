@@ -1,9 +1,7 @@
 ---
 layout: post
 title: Windows Update auf Microsoft-Server zurücksetzen
-date: 2011-07-15 15:51
-author: Gordon Breuer
-comments: true
-category: Allgemein, Werkzeugkiste
+category: .*
+tags: []
 ---
 <p><img style="background-image: none; border-bottom: 0px; border-left: 0px; margin: 0px 10px 10px 0px; padding-left: 0px; padding-right: 0px; display: inline; float: left; border-top: 0px; border-right: 0px; padding-top: 0px" title="Microsoft Intune" border="0" alt="Microsoft Intune" align="left" src="http://anheledirwp.blob.core.windows.net/wordpress/2011/07/Microsoft-Intune.png" width="150" height="150" />Einige Programme zur Inventarisierung und Systemverwaltung greifen auch in den Windows-Update-Prozess ein. Ein Beispiel wäre Microsoft Intune, welches ich vor einiger Zeit mal getestet hatte. Aber auch einige Viren und Trojaner sind dafür bekannt das Windows-Update außer Gefecht zu setzen damit bestehende Sicherheitslücken nicht geschlossen werden.</p>  <p>Man kann zwar per Hand die Microsoft-Server unter Windows 7 auswählen um auf Updates zu prüfen, doch ist das mit der Zeit etwas lästig und man vergisst es auch ganz gerne wieder. Bei mir trat dieser Fall ein, nachdem ich die Intune-Testversion deinstalliert hatte – die Update-Server blieben jedoch weiterhin umgestellt.</p>  <p>Um diese Einstellung zurückzusetzen auf die Werkseinstellungen muss man lediglich einen Schlüssel mit allen untergeordneten Einträgen in der Registrierungsdatenbank entfernen:</p>  <p><font face="Courier New"><strong>HKEY_LOCAL_MACHINESOFTWAREPoliciesMicrosoftWindowsWindowsUpdate</strong></font></p>  <p>Startet man anschließend den Rechner neu wird auch wieder automatisch auf den Standardservern nach Updates gesucht.</p>

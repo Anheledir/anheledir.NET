@@ -2,10 +2,8 @@
 layout: post
 section-type: post
 title: Windows Phone Preview für Entwickler verfügbar
-date: 2013-10-15 00:50
-author: Gordon Breuer
-comments: true
-category: Development, Mobile
+category: .*
+tags: []
 ---
 <span style="background-color: #e3e5e7;"><img class="alignleft size-full wp-image-4284" style="margin-right: 10px; margin-bottom: 10px;" alt="WP-TdT-Preview-8" src="http://anheledirwp.blob.core.windows.net/wordpress/2013/10/Blog-WP-TdT.png" width="124" height="124" />Vor länger</span> Zeit hat Microsoft der Windows Phone Entwicklergemeinde angekündigt, dass diese in Zukunft Updates des mobiles Betriebssystems vorab erhalten können um frühzeitig ihre Apps zu testen. Jetzt endlich hat Microsoft sein Versprechen tatsächlich eingelöst und das Windows Phone Preview Programm für Entwickler gestartet. Voraussetzung ist ein Smartphone mit Gerätefreischaltung für Entwickler. Da man mit seinem Microsoft-Account inzwischen auch ohne die kostenpflichtige Dev-Center Abonnements ein Windows Phone freischalten kann, muss man hier nichts weiter machen.
 

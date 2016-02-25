@@ -2,10 +2,8 @@
 layout: post
 section-type: post
 title: 150 Tage mit Windows Phone 7
-date: 2011-03-20 13:11
-author: Gordon Breuer
-comments: true
-category: IMHO, Mobile, Praxistest
+category: .*
+tags: []
 ---
 <p>Heute sind es auf den Tag genau 150 Tage seit dem offiziellen Europa-Launch von Windows Phone 7 am 21. Oktober 2010; und damit auch 150 Tage, die ich mit dem System gearbeitet habe. Zeit also f&uuml;r einen kleinen Erfahrungsbericht!</p>
 <h2>Die Hardware</h2>

@@ -1,10 +1,8 @@
 ---
 layout: post
 title: Veni, vidi, vici
-date: 2009-07-09 05:13
-author: Gordon Breuer
-comments: true
-category: Lehrstuhl
+category: .*
+tags: []
 ---
 <p>Schon Julius C&auml;sar hat die elegant formulierte alliteriende Klimax dreier asyndetischer Zweisilber &ldquo;<strong>Veni, vidi, vici</strong>&rdquo; (lat. &ldquo;<strong>ich kam, ich sah, ich siegte</strong>&rdquo;) 47 v. Chr. verwendet, um seinen schnellen und vernichtenden Schlag gegen Pharnakes II. zu beschreiben. (<em>Quelle: <a href="http://de.wikipedia.org/wiki/Veni_vidi_vici" target="_blank">Wikipedia</a></em>).</p>
 <p>Ich habe vielleicht keinen bosporanischen K&ouml;nig besiegt, aber immerhin habe ich es doch noch geschafft meine Ausbildung zum <strong>Mediengestalter f&uuml;r Digital- und Printmedien im Fachbereich Medienoperating non-Print</strong> erfolgreich mit der Note &ldquo;<strong>sehr gut</strong>&rdquo; (1) abzuschlie&szlig;en. Nach dem ich nach 6 Semestern mein Studium der Rechtswissenschaften in Saarbr&uuml;cken vorzeitig abgebrochen hatte mochten einige ja ganz gerne ihre Zweifel &auml;u&szlig;ern. Doch all&rsquo; diesen Zweiflern und Skeptikern m&ouml;chte ich auf diesem Wege virtuell die Zunge rausstrecken und ihre Unkenrufe auf h&ouml;chst erwachsene Weise kommentieren mit einem &ldquo;<strong>&Auml;llab&auml;tsch!</strong>&rdquo; ;-)</p>

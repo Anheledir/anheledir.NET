@@ -1,10 +1,8 @@
 ---
 layout: post
 title: An Nikolaus wird gecoded!
-date: 2013-11-24 10:00
-author: Gordon Breuer
-comments: true
-category: Development, Mobile
+category: .*
+tags: []
 ---
 <p style="text-align: center;"><a href="http://www.microsoft.com/germany/msdn/myapp/xmas/nikolaus-hackathon.aspx"><img class="aligncenter  wp-image-6958" alt="Christmas App Revolution" src="http://anheledirwp.blob.core.windows.net/wordpress/2013/11/hero-xmas.jpg" width="736" height="234" /></a></p>
 Am <strong>6. Dezember 2013</strong> finden deutschlandweit an elf Orten <a href="http://www.microsoft.com/germany/msdn/myapp/xmas/nikolaus-hackathon.aspx" target="_blank">Nikolaus Hackathons</a> statt, auf denen <strong>Windows Phone-</strong> und <strong>Windows 8</strong>-Entwickler ihr Know-how unter Beweis stellen können. Die <strong>Nikolaus Hackathons</strong> sind Teil der <a href="http://www.microsoft.com/germany/msdn/myapp/xmas/default.aspx" target="_blank">Christmas App Revolution</a>, bei der noch <strong>bis zum 23. Dezember</strong> bereits veröffentlichte Weihnachts-Apps eingereicht werden können, um an der <a href="http://www.microsoft.com/germany/msdn/myapp/xmas/preise.aspx" target="_blank">Verlosung verschiedener Preise</a> teilzunehmen. Bis zum 27. November eingereichte Apps haben zudem die Chance, mit zusätzlichen Gewinnchancen in den <a href="http://www.microsoft.com/germany/msdn/myapp/xmas/appventskalender.aspx" target="_blank">Appventskalender</a> aufgenommen zu werden.

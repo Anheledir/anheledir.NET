@@ -1,10 +1,8 @@
 ---
 layout: post
 title: DVLUP - Das Bonus-Programm von Nokia für Windows Phone Entwickler
-date: 2013-10-20 18:17
-author: Gordon Breuer
-comments: true
-category: Development, Mobile, Praxistest
+category: .*
+tags: []
 ---
 <a href="http://dvlup.com"><img class="aligncenter size-full wp-image-4296" alt="Ready to DVLUP?" src="http://anheledirwp.blob.core.windows.net/wordpress/2013/10/65858.jpg" width="650" height="100" /></a>
 

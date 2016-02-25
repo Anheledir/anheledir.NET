@@ -1,10 +1,8 @@
 ---
 layout: post
 title: Impressionen vom Nikolaus-Hackathon 2013 in Frankfurt
-date: 2013-12-13 17:00
-author: Gordon Breuer
-comments: true
-category: Mobile, Unterhaltung
+category: .*
+tags: []
 ---
 Heute vor genau einer Woche fand deutschlandweit in 11 Städten der Nikolaus-Hackathon für Windows (Phone) 8 statt. Zeit also, ein paar Fotos zu veröffentlichen. :-)
 

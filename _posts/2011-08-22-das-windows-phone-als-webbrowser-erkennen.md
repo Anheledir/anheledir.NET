@@ -2,10 +2,8 @@
 layout: post
 section-type: post
 title: Das Windows Phone als Webbrowser erkennen
-date: 2011-08-22 00:35
-author: Gordon Breuer
-comments: true
-category: Development, Mobile, WWWahnsinn
+category: .*
+tags: []
 ---
 <p>Es ist vollbracht! Sie haben nach wochenlanger Planung, Programmierung und Testen endlich ihre Windows Phone 7 Anwendung fertiggestellt und im Marketplace ver&ouml;ffentlicht. Gehen wir einmal von einer Webanwendung aus, beispielsweise ein CMS oder ein Eventplaner. Ihre Besucher wissen vielleicht gar nicht, dass es inzwischen eine App gibt um die Verwendung zu vereinfachen. Nat&uuml;rlich, man kann einen Link, einen Button oder auch eine ganze Supporseite zur Verf&uuml;gung stellen. Doch vor allem auf dem kleinen Display eines Handys wird der Nutzer meistens nur auf ihm bekannte und wichtige Elemente achten, bsp. zum Anmelden. Viel einfacher w&auml;re es, wenn die Seite selber merken w&uuml;rde, dass der aktuelle Besucher eine bessere Option in Form einer App h&auml;tte.</p>
 <p>Die einfachste und effektivste Form so eines Hinweises ist ein wenig Javascript, dass beispielsweise den User-Agent des Browsers ausliest. Nat&uuml;rlich sollte man den Benutzer nicht ungefragt umleiten, das w&uuml;rde ihn nur verwirren und zwingt ihm die Benutzung der App auf. Besser ist es, einen Dialog anzuzeigen, in dem auf die native App hingewiesen wird und der Benutzer so die Wahl hat entweder die App zu verwenden oder doch lieber die gewohnte Website.</p>

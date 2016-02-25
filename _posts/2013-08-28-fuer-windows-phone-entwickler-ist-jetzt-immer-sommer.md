@@ -1,10 +1,8 @@
 ---
 layout: post
 title: Für Windows Phone Entwickler ist jetzt immer Sommer
-date: 2013-08-28 00:18
-author: Gordon Breuer
-comments: true
-category: Mobile, Werkzeugkiste
+category: .*
+tags: []
 ---
 <span style="background-color: #e3e5e7;"><img class="size-full wp-image-3286 alignright" style="width: 145px; height: 102px;" alt="Handy im Liegestuhl am Strand" src="http://anheledirwp.blob.core.windows.net/wordpress/2013/08/ap_26914_chillhandy_2_6.jpg" width="244" height="184" />Seit einigen Wochen gab es im Windows Phone Developer Center den so genannten "Summer break": Statt für 99$ konnte man sich bereits für <strong>nur 19$</strong> als Entwickler registrieren. Die gute Nachricht kam heute über die <a title="Post auf der internationalen Facebook-Seite von Windows Phone" href="http://www.facebook.com/wpdev/posts/10152333412737923">Facebook-Seite von Windows Phone</a>: Bis auf weiteres gilt der vergünstigte Preis nun dauerhaft!</span>
 

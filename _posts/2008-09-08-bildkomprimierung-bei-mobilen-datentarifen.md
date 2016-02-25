@@ -2,10 +2,8 @@
 layout: post
 section-type: post
 title: Bildkomprimierung bei mobilen Datentarifen
-date: 2008-09-08 03:03
-author: Gordon Breuer
-comments: true
-category: Development, English, Werkzeugkiste
+category: .*
+tags: []
 ---
 <p>
 <img style="margin: 0px 10px 0px 0px; border: 0px" src="http://anheledirwp.blob.core.windows.net/wordpress/2008/09/ap_26914_chillhandy_2_6.jpg" border="0" alt="aboutpixel.de / Chillin' phone &copy; Stachurski Michael " title="aboutpixel.de / Chillin' phone &copy; Stachurski Michael " width="244" height="184" align="left" /> Seit einiger Zeit bin ich vollst&auml;ndig auf einen Datentarif von Vodafone umgestiegen um auch zu Hause ins Internet zu gehen. Die 10GB Traffic im Monat reichen normalerweise aus und wenn ich doch mal dr&uuml;ber komme muss ich mich halt ein paar Tage mit GPRS abfinden. Daf&uuml;r muss ich aber auch unterwegs nicht auf E-Mail und Internet verzichten. 

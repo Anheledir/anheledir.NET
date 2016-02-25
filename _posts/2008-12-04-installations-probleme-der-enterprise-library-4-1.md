@@ -1,9 +1,7 @@
 ---
 layout: post
 title: Installations-Probleme der Enterprise Library 4.1
-date: 2008-12-04 21:36
-author: Gordon Breuer
-comments: true
-category: Development, Werkzeugkiste
+category: .*
+tags: []
 ---
 <p>Schon vor einer ganzen Weile, am 27. Oktober 2008, wurde die Version 4.1 der Microsoft Enterprise Library in der aktualisierten Version 4.1 veröffentlicht. Neben dem Support für Visual Studio 2008 und Visual Studio 2008 SP1 kamen unter anderem ein paar Performance-Verbesserungen dazu und die Bedienung des Konfigurations-Tools wurde verbessert.</p>  <p>Gut und schön, aber jeder Versuch die neue Version zu installieren scheiterte mit der Fehlermeldung, dass ich zunächst die Version 4.0 deinstallieren müsste. Jetzt könnte man meinen, dass das ja schnell erledigt wäre über die Systemsteuerung. Aber zumindest bei mir ging es danach dennoch nicht.</p>  <p>Nach einigem Suchen jetzt endlich – über fünf Wochen nach der Veröffentlichung – die Lösung des Rätsels: Bei der Deinstallation der alten Version ist eine Leiche in der Registrierung übrig geblieben, an der sich das Setup-Programm der 4.1er Version jedoch störte. Nach dem Löschen dieses Registry-Keys ging die Installation dann ohne weitere Probleme anstandslos von statten.</p>  <p><strong>Unter 32 Bit:      <br /></strong><span style="font-family: courier">HKEY_LOCAL_MACHINESOFTWAREMicrosoftEnterprise Library v4</span></p>  <p><strong>Unter 64 Bit:      <br /></strong><span style="font-family: courier">HKEY_LOCAL_MACHINESOFTWAREWOW6432NodeMicrosoftEnterprise Library v4</span></p>  <p>Vielleicht kann ja dieser kleine Tipp noch wem anders helfen ein paar Nerven und Haare zu behalten. Hier auch noch der <a href="http://www.microsoft.com/downloads/details.aspx?FamilyId=1643758B-2986-47F7-B529-3E41584B6CE5&amp;displaylang=en" target="_blank">Download-Link für die 4.1er Version</a>.</p>

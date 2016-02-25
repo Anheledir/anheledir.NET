@@ -1,10 +1,8 @@
 ---
 layout: post
 title: Child Process Debugging Power Tool für Visual Studio 2013.2
-date: 2014-11-25 10:48
-author: Gordon Breuer
-comments: true
-category: Development, diagnostic, plugin, visual studio, Werkzeugkiste
+category: .*
+tags: []
 ---
 Schon seit einiger Zeit gab es seitens der Entwickler den Wunsch, dass Unterprozesse die vom Hauptprozess erzeugt wurden automatisch von Visual Studio an den Debugger angehängt werden, um hier ebenfalls eine einfache Fehleranalyse durchführen zu können. Vor fast zwei Jahren wurde der Wunsch dann auch bei <a href="http://visualstudio.uservoice.com/forums/121579-visual-studio/suggestions/3549376-attach-child-process-to-debugger-automatically" target="_blank">UserVoice eingereicht</a>, und jetzt wurde er tatsächlich umgesetzt. :-)
 

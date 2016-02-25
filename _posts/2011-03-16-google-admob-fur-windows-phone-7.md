@@ -2,10 +2,8 @@
 layout: post
 section-type: post
 title: Google AdMob für Windows Phone 7
-date: 2011-03-16 09:58
-author: Gordon Breuer
-comments: true
-category: Development, Mobile, Werkzeugkiste
+category: .*
+tags: []
 ---
 <p>Google hat <a href="http://googlemobileads.blogspot.com/2011/03/new-beta-admob-windows-phone-7-sdk.html">gestern</a> f&uuml;r seinen Mobile Advertising-Dienst <a href="http://www.admob.com/">AdMob</a> ein SDK f&uuml;r Windows Phone 7 herausgebracht. Nach dem es kaum Alternativen vor allem im deutschsprachigen Raum gibt, ist dieser Schritt auf jedenfall positiv zu sehen.</p>
 <p>Die Einbindung ist relativ simpel (<a href="http://code.google.com/intl/de-DE/mobile/ads/docs/wp7/fundamentals.html">hier</a> die offizielle Anleitung):</p>

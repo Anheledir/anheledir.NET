@@ -2,10 +2,8 @@
 layout: post
 section-type: post
 title: PHP Un-/Serialize with C#
-date: 2011-05-04 12:46
-author: Gordon Breuer
-comments: true
-category: Development, English
+category: .*
+tags: []
 ---
 <p class="hide"><img style="background-image: none; border-right-width: 0px; padding-left: 0px; padding-right: 0px; display: inline; border-top-width: 0px; border-bottom-width: 0px; border-left-width: 0px; padding-top: 0px" border="0" alt="(c) Bernd Boscolo" src="http://anheledirwp.blob.core.windows.net/wordpress/2011/05/aboutpixel.de-Netzwerk-10-Bernd-Boscolo.jpg" width="240" height="218" /></p>  <p>Did you ever had to use a web-service written in PHP that used the proprietary PHP functions to serialize data? Me neither, until a few days ago. It took me some time to find a library that can handle this data and unserialize it again. Granted, the serialization-format isn’t too complicated, but why should someone invest time into a problem already solved? And I was sure that I’m neither the first nor the only one facing this task.</p>  <p>The library in question is the <a href="http://csphpserial.sourceforge.net/">Sharp Serialization Library</a> on Sourceforge. The project was released on 2010-01-07 and is in beta. Also I am not quite sure if the supported types are a limitation of the library or if PHP doesn’t have more of them. It’s a few years ago since I last actively worked with this language. But the library covers all possible types for my duties, so I’m fine with it.</p>  <p>My only problem was: I need this library for a Windows Phone 7 project, but the used types “ArrayList” and “Hashtable” aren’t compatible with the Silverlight 3 Subset of the framework. So I rewrote the accordingly parts of the library with “List&lt;&gt;” and “Dictionary&lt;&gt;” and voíla, now I can use it within my WP7-project, too!</p>  <p>Here is the sourcecode of my changes for your convenience:</p>  <pre class="brush: csharp;">/*
  * Serializer.cs

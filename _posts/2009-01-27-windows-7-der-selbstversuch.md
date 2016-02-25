@@ -2,10 +2,8 @@
 layout: post
 section-type: post
 title: Windows 7 – Der Selbstversuch
-date: 2009-01-27 00:25
-author: Gordon Breuer
-comments: true
-category: Praxistest, Werkzeugkiste
+category: .*
+tags: []
 ---
 <h2>Die Entscheidung</h2>
 <p><img style="border-right: 0px; border-top: 0px; display: inline; margin: 0px; border-left: 0px; border-bottom: 0px" title="Windows7TaskbarExtLogo" src="http://anheledirwp.blob.core.windows.net/wordpress/2009/01/Windows7TaskbarExtLogo_3.png" border="0" alt="Windows7TaskbarExtLogo" width="168" height="100" align="left" /> Der Vista-Nachfolger von Microsoft ist derzeit in aller Munde. Nicht nur bei Entwicklern sondern auch bei 08/15-Anwendern fand das derzeitige Beta-Release auf die Festplatten der heimischen PCs. Von schneller, stabiler und schlanker ist die Rede. Wie dem auch sei, ich bin mit Vista durchaus zufrieden und kann mich weder &uuml;ber Abst&uuml;rze noch Inkompatibilit&auml;ten oder Geschwindigkeits-probleme beklagen. Aber gegen das subjektive Empfinden des Mobs ist ja sowieso kein Kraut gewachsen.</p>
