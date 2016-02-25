@@ -175,3 +175,5 @@ sass:
 
 gems:
   - jekyll-paginate
+  - jekyll-gist
+  - emoji_for_jekyll
