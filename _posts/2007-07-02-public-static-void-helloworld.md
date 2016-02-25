@@ -52,4 +52,3 @@ In dem Sinne: Wir lesen uns! :)
 PS: Ich bin immer etwas einfallslos was Namen angeht - aber vielleicht hat ja jemand
 eine interessante Idee für das Weblog hier ;-)
 </p>
-<img width="0" height="0" src="http://old.gordon-breuer.de/aggbug.ashx?id=de5aa5fa-7744-4dbe-97aa-43bc496c6048" />

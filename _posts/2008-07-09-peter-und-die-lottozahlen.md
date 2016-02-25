@@ -14,10 +14,6 @@ namespace Anheledir {
       var possibilities = new int[280];
       int total, product;
 
-      Console.WriteLine( "Backtracking for "lotto problem" - (c) 2008, Gordon Breuer" );
-      Console.WriteLine( "==========================================================" );
-      Console.WriteLine();
-
       for ( var n1 = 1; n1 &lt;= 49; n1++ ) {
         for ( var n2 = n1 + 1; n2 &lt;= 49; n2++ ) {
           for ( var n3 = n2 + 1; n3 &lt;= 49; n3++ ) {
