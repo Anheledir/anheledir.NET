@@ -167,6 +167,10 @@ exclude: ["LICENSE", "README.md", "CONTRIBUTING", "CONTRIBUTORS", "scripts"]
 
 paginate_path: "blog/page:num/"
 
+# Custom Emoji image-path
+ emoji-images-path: 'img/emoji' 
+ 
+ 
 # Enable minification SASS
 
 sass:
