@@ -1,0 +1,13 @@
+---
+layout: post
+title: Microsoft Office 2010: Windows 7-Theme
+date: 2010-05-11 21:16
+author: Gordon Breuer
+comments: true
+categories: [Werkzeugkiste]
+---
+<p>Those of you who couldn’t download the final Microsoft Office 2010 version via the Volume Licensing Service Center have to wait until June when it will become available to retail stores. To shorten the waiting-time you can download the Windows 7 Themepacks I created again with the great wallpapers from the guys at <a href="http://microsoftfeed.com/2010/10-beautiful-microsoft-office-2010-wallpapers/">www.microsoftfeed.com</a>! They contain the yellow/orange wallpapers (bright version) respectively the anthracite wallpapers (dark version), in each case combines with a corresponding color-pattern. Just click the particular image below to download the <em>.themepack</em>-file:</p>  <p><a href="http://static.gordon-breuer.de/files/themes/office2010bright.themepack"><img style="border-right-width: 0px; margin: 0px 0px 0px 75px; display: inline; border-top-width: 0px; border-bottom-width: 0px; border-left-width: 0px" title="Microsoft Office 2010 (bright) Themepack" border="0" alt="Microsoft Office 2010 (bright) Themepack" align="left" src="http://anheledirwp.blob.core.windows.net/wordpress/2010/05/MicrosoftOffice201006.jpg" width="200" height="112" /></a> <a href="http://static.gordon-breuer.de/files/themes/office2010dark.themepack"><img style="border-right-width: 0px; margin: 0px 0px 0px 75px; display: inline; border-top-width: 0px; border-bottom-width: 0px; border-left-width: 0px" title="Microsoft Office 2010 Themepack" border="0" alt="Microsoft Office 2010 Themepack" align="left" src="http://anheledirwp.blob.core.windows.net/wordpress/2010/05/MicrosoftOffice201011.jpg" width="200" height="112" /></a></p>  <br style="clear: both" />  <br /><a target="_blank" href="http://dotnet-kicks.de/kick/?url=http://old.gordon-breuer.de/post/2010/05/11/Microsoft-Office-2010-Windows-7-Theme.aspx&amp;title=Microsoft Office 2010: Windows 7-Theme">
+                    <img src="http://dotnet-kicks.de/Services/Images/KickItImageGenerator.ashx?url=http://old.gordon-breuer.de/post/2010/05/11/Microsoft-Office-2010-Windows-7-Theme.aspx" border="0" alt="Artikel empfehlen auf .NET-Kicks Deutschland" />
+                  </a> <a target="_blank" href="http://dotnetkicks.com/kick/?url=http://old.gordon-breuer.de/post/2010/05/11/Microsoft-Office-2010-Windows-7-Theme.aspx%23addilang&amp;title=Microsoft Office 2010: Windows 7-Theme">
+                    <img src="http://dotnetkicks.com/Services/Images/KickItImageGenerator.ashx?url=http://old.gordon-breuer.de/post/2010/05/11/Microsoft-Office-2010-Windows-7-Theme.aspx%23addilang" border="0" alt="kick it on .NET Kicks" />
+                  </a>

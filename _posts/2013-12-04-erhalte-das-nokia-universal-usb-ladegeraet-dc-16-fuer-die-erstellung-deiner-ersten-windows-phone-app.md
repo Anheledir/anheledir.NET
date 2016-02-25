@@ -1,0 +1,19 @@
+---
+layout: post
+title: Erhalte das Nokia Universal-USB-Ladegerät DC-16 für die Erstellung deiner ersten Windows Phone App!
+date: 2013-12-04 14:39
+author: Gordon Breuer
+comments: true
+categories: [Mobile, Werkzeugkiste]
+---
+<img class="alignleft  wp-image-6946" style="margin-right: 10px; margin-bottom: 10px;" alt="Geschenk!" src="http://anheledirwp.blob.core.windows.net/wordpress/2013/11/Gift-01-150x150.png" width="120" height="120" />Der Nokia Universal Portable USB Charger DC-16 ist nur einer von vielen interessanten Preisen, die ihr bei <a href="http://www.dvlup.com/anheledir/invite" target="_blank">DVLUP</a>, dem <strong>kostenlosen Entwickler-Programm für Windows Phone</strong> (und Asha) von Nokia eintauschen könnt! Ebenfalls mit dabei sind Ladekissen von Fatboy, Smartphones, Token für die unterschiedlichsten Services wie Infragistics NetAdvantage oder BugSense und viele andere Produkte der teilnehmenden Partner.
+
+Was ihr dafür machen müsst? Zunächst einmal euch<strong> kostenlos registrieren</strong> unter <a title="DVLUP" href="http://www.dvlup.com/anheledir/invite" target="_blank">www.dvlup.com</a>. Das sollte innerhalb weniger Minuten erledigt sein und erlaubt euch danach für die Erfüllung verschiedener Herausforderungen, dem Lösen von Quiz-Fragen, etc. Punkte zu sammeln um diese dann im Prämien-Shop einzutauschen. :-)
+<p style="text-align: center;"><a href="http://www.dvlup.com/anheledir/invite"><img class="aligncenter" alt="Ready to DVLUP?" src="http://anheledirwp.blob.core.windows.net/wordpress/2013/10/65858.jpg" width="650" height="100" /></a></p>
+<img class="alignright" style="margin-left: 10px; margin-bottom: 10px;" alt="default-img-challenge-update-150x150" src="http://anheledirwp.blob.core.windows.net/wordpress/2013/10/default-img-challenge-update-150x150.png" width="96" height="96" />Was noch? Nun, ihr müsst eine Windows Phone App schreiben! Klingt kompliziert, ist es aber gar nicht: Mit Hilfe des <a title="Windows Phone App Studio (BETA)" href="http://apps.windowsstore.com/default.htm" target="_blank">Windows Phone App Studio</a> - einer Web-Anwendung von Microsoft - könnt ihr unter Anleitung mit einer einfachen Oberfläche, vorgefertigten Designs und Grafiken und ganz ohne eigene Programmierung eure erste App einfach, schnell und ohne fremde Hilfe fertigstellen. Also ideal für alle Einsteiger!
+
+Noch etwas? Nun, ihr müsst eure gerade erstellte App noch für die <a title="&quot;Deine Erste App&quot;-Challenge auf DVLUP" href="http://www.dvlup.com/Challenge/307" target="_blank">"Deine erste App"-Challenge </a>einreichen. In der Beschreibung dort findet ihr auch noch einmal alle wichtigen Informationen und vor allem Links zu noch mehr Hilfeseiten, die euch den Einstieg ganz leicht machen werden.
+
+<img class="alignleft  wp-image-6426" style="margin-right: 10px; margin-bottom: 10px;" alt="multimedia-presentation" src="http://anheledirwp.blob.core.windows.net/wordpress/2011/07/multimedia-presentation-150x150.gif" width="120" height="120" />Gut aussehende Apps mit praktischen Funktionen für das Windows Phone zu erstellen ist also wirklich ganz einfach. Probiert es selber aus, und lasst euch überraschen wie ihr in unter einer Stunde eure erste professionell wirkende Mobile-App selbst erstellt habt! Noch weitere Fragen zur App-Entwicklung für das Windows (Phone) 8? Dann kommt am <a title="Nikolaus Hackathon für Windows und Windows Phone Apps" href="http://gordon-breuer.de/termine/termin/nikolaus-hackathon-fuer-windows-und-windows-phone-apps/">Freitag, den 6.12.</a>, zu einem der <a title="An Nikolaus wird gecoded!" href="http://gordon-breuer.de/2013/11/nikolaus-hackathons-zu-windows-phone-und-windows-8-in-ganz-deutschland/">11 Nikolaus-Hackathons von Microsoft</a> - der <strong>Eintritt ist natürlich frei</strong> und ihr bekommt hier den ganzen Tag (und Nacht) <strong>Hilfe von professionellen Entwicklern</strong> von Microsoft und Nokia.
+
+&nbsp;

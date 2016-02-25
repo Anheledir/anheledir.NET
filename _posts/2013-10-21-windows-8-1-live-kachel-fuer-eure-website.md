@@ -1,0 +1,19 @@
+---
+layout: post
+title: Windows 8.1 Live-Kachel für eure Website
+date: 2013-10-21 10:00
+author: Gordon Breuer
+comments: true
+categories: [Allgemein, Werkzeugkiste, WWWahnsinn]
+---
+<a href="http://www.buildmypinnedsite.com/de-DE"><img class="alignleft size-full wp-image-4306" style="margin-right: 10px; margin-bottom: 10px;" alt="Build your own Pinned Site - Demo" src="http://anheledirwp.blob.core.windows.net/wordpress/2013/10/Screenshot-2.png" width="242" height="357" /></a>Mit Windows 7 hat Microsoft erstmalig die Möglichkeit eingeführt, eine Website an die Startleiste festzusetzen, oder zu pinnen wie man heute sagt. Windows 8 hat das fortgeführt und man kann Websites nun als Kachel auf seinem Startbildschirms anordnen. Im Gegensatz zu Apps gab es aber für Websites nur zwei Kachelgrößen (klein und mittel), und als Bild wurde das Favicon verwendet.
+
+Das seit wenigen Tagen als Update für alle verfügbare Windows 8.1 sorgt jetzt für <strong>mehr Möglichkeiten</strong>. Genauer gibt es dem Webmaster deutlich mehr Möglichkeiten an die Hand das Kachel-Erlebnis für seine Besuchern zu verbessern. So sind jetzt alle Kachelgrößen verfügbar, auch die mit Windows 8.1 neu hinzugekommene "große" mit doppelter Höhe. Ein statisches Bild für alle diese Größen wäre jedoch nicht sinnvoll, denn das Besondere an den Live-Kacheln ist ja gerade das sie aktuelle Informationen anzeigen können ohne das man die App / Seite dahinter öffnen muss. Diese Möglichkeit habe ich jetzt auch unter Windows 8.1 mit einfachen Websites. Hier kann man gleich mehrere aktuelle Einträge hinterlegen, die vom System regelmäßig überprüft und aktualisiert werden. Was liegt also für ein Blog beispielsweise näher als die neuesten Beiträge zu verwenden?
+
+Wer das mal in Aktion sehen möchte kann einfach <strong>mein Blog unter Windows 8.1</strong> im Internet Explorer 11 öffnen und mit einem Touch auf den Favoriten-Stern und anschließend den Pin <strong>auf seinen Startbildschirms bringen</strong>. Ihr könnt nun die Größe wie bei einer App beliebig verändern. Neben dem für jede Größe optimierten Hintergrund-Bild seht ihr außerdem die letzten 5 veröffentlichten Beiträge mit Name und Bild (<em>wenn vorhanden</em>) auf der Kachel als Info durchscrollen.
+
+Wenn ihr das für eure eigene Seite ebenfalls haben möchtet gibt es einmal den <strong>Quick'n'Easy Way</strong>, und einmal den <strong>manuellen Weg</strong> für die Experten oder die es einfach etwas genauer / detaillierter haben möchten.
+<h2>Quick'n'Easy</h2>
+Ihr ruft einfach die Website <a href="http://www.buildmypinnedsite.com/de-DE">Build My pinned Site</a> in eurem Browser auf. Ein einfach zu bedienender Assistent führt euch durch alle notwendigen Schritte und ihr könnt auch die URL zu einem RSS-Feed eingeben wen ihr aktuelle Beiträge auf der Live-Kachel einbinden möchtet. Den Rest erledigt ein Service im Hintergrund für euch. Zum Schluss erhaltet ihr einen Download mit den Dateien für euren Webserver und dem HTML-Code der in eure Seite eingebunden werden muss. Fertig!
+<h2>Pinned Site Enhancements</h2>
+Wem die automatisch generierte Lösung nicht genügt oder einfach etwas genauer steuern möchte wie die Live-Kacheln für seine Websites funktionieren, der kann einen Blick auf die API-Dokumentation des Internet Explorer 11 werfen. Das entsprechende Feature nennt sich <strong>Pinned Sites</strong> und ist <a title="Internet Explorer 11 Dev-Center: Pinned Sites" href="http://msdn.microsoft.com/en-us/library/ie/gg491731(v=vs.85).aspx">in der MSDN</a> zu finden mit Beispielen und Erklärungen aller möglichen Optionen. Für einen ersten Versuch und damit die Benutzer ihre favorisierten Websites anhand der Kachel auf einen Blick erkennen können, genügt das Ergebnis des Assistenten in der Regel.
