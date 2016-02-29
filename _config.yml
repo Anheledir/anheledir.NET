@@ -58,7 +58,7 @@ delete-delay: 5000
 lines: # You can add HTML Tags in the Text
   - text: "Arguing with an Engineer is a lot like wrestling in the mud with a pig:<br />After a couple of hours you realize the pig likes it."
   - text: "People ask me, &quot;Why do you drink diet soda?&quot; So I can eat regular cake!"
-	- text: "Said Schrodinger's cat with a smile:<br/>»I'll be in the box with a vial.<br/>With the poison I'll be<br/>Quantum tangled you see,<br/>Thus alive and dead both all the while.«"
+	- text: "Said Schrodinger's cat with a smile:<br/>&quot;I'll be in the box with a vial.<br/>With the poison I'll be<br/>Quantum tangled you see,<br/>Thus alive and dead both all the while.&quot;"
 	- text: "I’m sorry, Dave. I’m afraid I can’t do that."
 	- text: "Five card stud, nothing wild. And the sky’s the limit"
 	- text: "Invention, my dear friends, is 93% perspiration, 6% electricity, 4% evaporation, and 2% butterscotch ripple."
@@ -79,7 +79,7 @@ lines: # You can add HTML Tags in the Text
 	- text: "If you're going to do something tonight that you'll be sorry for tomorrow morning, sleep late."
 	- text: "My book smell better than your tablet."
 	- text: "I'm not a nerd. I'm just smarter than you."
-	- text: "At the end of each day, life should ask us: »Do you want to save the changes?«"
+	- text: "At the end of each day, life should ask us: &quot;Do you want to save the changes?&quot;"
 
 me-img: "/img/portrait-sunglasses.png"
 
