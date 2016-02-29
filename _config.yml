@@ -56,29 +56,8 @@ type-speed: 5
 start-delay: 200
 delete-delay: 5000
 lines: # You can add HTML Tags in the Text
-  - text: "Arguing with an Engineer is a lot like wrestling in the mud with a pig &ndash;<br />After a couple of hours you realize the pig likes it."
-  - text: "People ask me, &quot;Why do you drink diet soda?&quot; So I can eat regular cake!"
-	- text: "I’m sorry, Dave. I’m afraid I can’t do that."
-	- text: "Five card stud, nothing wild. And the sky’s the limit"
-	- text: "Invention, my dear friends, is 93% perspiration, 6% electricity, 4% evaporation, and 2% butterscotch ripple."
 	- text: "Fantastic!"
 	- text: "Geronimo!"
-	- text: "I find your lack of faith disturbing."
-	- text: "Try not. Do, or do not. There is no try."
-	- text: "If we knew what it was we were doing, it would not be called research, would it?"
-	- text: "He’s dead, Jim."
-	- text: "These aren’t the droids you’re looking for."
-	- text: "Shall we play a game?"
-	- text: "No-one has ever called me a cool dude. I’m somewhere between geek and normal."
-	- text: "A woman’s mind is cleaner than a man’s: She changes it more often."
-	- text: "People who think they know everything are a great annoyance to those of us who do."
-	- text: "We are all here on earth to help others; what on earth the others are here for I don’t know."
-	- text: "I’m sorry, if you were right, I’d agree with you."
-	- text: "There cannot be a crisis next week. My schedule is already full."
-	- text: "If you’re going to do something tonight that you’ll be sorry for tomorrow morning, sleep late."
-	- text: "My book smell better than your tablet."
-	- text: "I’m not a nerd. I’m just smarter than you."
-	- text: "At the end of each day, life should ask us: &quot;Do you want to save the changes?&quot;"
 
 me-img: "/img/portrait-sunglasses.png"
 
