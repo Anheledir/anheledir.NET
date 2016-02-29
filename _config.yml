@@ -56,13 +56,12 @@ type-speed: 5
 start-delay: 200
 delete-delay: 5000
 lines: # You can add HTML Tags in the Text
-  - text: "The lower you fall, the higher you'll fly."  
   - text: "Where’s your will to be weird?"
   - text: "Fantastic!"
   - text: "Geronimo!"
-  - text: "Arguing with an Engineer is a lot like wrestling in the mud with a pig &ndash;<br />After a couple of hours you realize the pig likes it."
+  - text: "Arguing with an Engineer is a lot like wrestling in the mud with a pig:<br />After a couple of hours you realize the pig likes it."
   - text: "People ask me, &quot;Why do you drink diet soda?&quot; So I can eat regular cake!"
-  - text: "Said Schrodinger’s cat with a smile<br />&quot;I’ll be in the box with a vial.<br />With the poison I’ll be<br />Quantum tangled you see,<br />Thus alive and dead both all the while.&quot;"
+  - text: "Said Schrodinger’s cat with a smile:<br />&quot;I’ll be in the box with a vial.<br />With the poison I’ll be<br />Quantum tangled you see,<br />Thus alive and dead both all the while.&quot;"
   - text: "I’m sorry, Dave. I’m afraid I can’t do that."
   - text: "Five card stud, nothing wild. And the sky’s the limit"
   - text: "Invention, my dear friends, is 93% perspiration, 6% electricity, 4% evaporation, and 2% butterscotch ripple."
