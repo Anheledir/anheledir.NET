@@ -133,12 +133,12 @@ syntax-highlight: True
 ############
 
 events:
-  - image: "/img/timeline/baracktocat.jpg"
-    date: "Mai 2012 - Today"
-    description: "Working at msg systems AG as Consultant and Software Engineer"
-  - image: "/img/timeline/spidertocat.png"
-    date: "Juli 2009 - April 2012"
-    description: "Working at DMDE GmbH as Technology Producer"
+  # - image: "/img/timeline/baracktocat.jpg"
+  #   date: "Mai 2012 - Today"
+  #   description: "Working at msg systems AG as Consultant and Software Engineer"
+  # - image: "/img/timeline/spidertocat.png"
+  #   date: "Juli 2009 - April 2012"
+  #   description: "Working at DMDE GmbH as Technology Producer"
 
 # First image of the Timeline
 
