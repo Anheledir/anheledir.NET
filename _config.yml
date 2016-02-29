@@ -56,8 +56,8 @@ type-speed: 5
 start-delay: 200
 delete-delay: 5000
 lines: # You can add HTML Tags in the Text
-	- text: "Fantastic!"
-	- text: "Geronimo!"
+  - text: "The lower you fall, the higher you'll fly."  
+  - text: "Where’s your will to be weird?"
 
 me-img: "/img/portrait-sunglasses.png"
 
