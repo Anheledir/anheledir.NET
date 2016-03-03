@@ -10,7 +10,7 @@
       {% if site.email %}
         {% if site.email contains '@' %}
           {% assign newemail = site.email | split: '@' %}
-            <p>
+            <p class="text-center">
             <script>
               function join_at_email(user, domain){
               return (user && domain)?(user + "@" + domain):"";

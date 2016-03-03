@@ -2,8 +2,8 @@
 layout: post
 section-type: post
 title: Aus der Praxis - Von der Spezifikation bis zur Auslieferung in 6 Wochen
-category: Vortrag
-tags: []
+category: Presentation
+tags: [msg, session, epost, dpag, german]
 ---
 <p>
 Kommt ein Kunde zum Dienstleister und sagt: „Wir hätte gerne eine völlig neue Anwendung von Ihnen entwickelt. Den Großteil der Funktionalität haben wir schon detailliert beschrieben. Ein paar Dinge sind noch unklar. Außerdem haben wir noch ein paar Ideen, die bislang noch nicht im Konzept enthalten sind. Wie die UI aussehen soll, wissen wir zwar noch nicht – aber wir haben ein UX-Team, das mit Ihnen die UI abstimmen würde. Wenn wir dann noch UX-Tests mit einer Testgruppe machen und die Anwendung am Ende auch mit UI-Tests automatisiert auf neun unterschiedlichen Betriebssystemen von Ihnen getestet haben möchten, ist das doch sicher in sechs Wochen fertig – oder?“</p>
