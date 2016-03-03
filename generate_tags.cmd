@@ -1,3 +1,3 @@
 @echo off
-cd %DEPLOYMENT_TARGET%
+cd %DEPLOYMENT_SOURCE%
 ruby generate-tags
