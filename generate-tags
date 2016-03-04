@@ -12,7 +12,7 @@ Dir.foreach(POSTS_DIR) do |post|
   unless (postYaml['tags'] == nil)
     postYaml['tags'].each{|tag|
 
-      File.exist?(TAGS_DIR + tag + '.html')
+      if File.exist?(TAGS_DIR + tag + '.html')
         File.delete(TAGS_DIR + tag + '.html')
       end
 
