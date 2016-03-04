@@ -5,11 +5,6 @@ require 'yaml'
 POSTS_DIR = '_posts/'
 TAGS_DIR = 'tags/'
 
-Dir.foreach(TAGS_DIR) do |filename|
-  next if File.directory? filename or filename == '.DS_Store'
-  File.delete TAGS_DIR + filename
-end
-
 Dir.foreach(POSTS_DIR) do |post|
 
   next if File.directory? post or post == '.DS_Store'
@@ -17,10 +12,14 @@ Dir.foreach(POSTS_DIR) do |post|
   unless (postYaml['tags'] == nil)
     postYaml['tags'].each{|tag|
 
-      puts('[+] Generating #' + tag + ' page')
+      unless File.exist?(TAGS_DIR + tag + '.html')
 
-      File.open(TAGS_DIR + tag + '.html', 'w') {|f| f.write(
-      "---\nlayout: tag\nsection-type: tag\ntitle: " + tag + "\n---\n## Tag")}
+        puts('[+] Generating #' + tag + ' page')
+
+        File.open(TAGS_DIR + tag + '.html', 'w') {|f| f.write(
+        "---\nlayout: tag\nsection-type: tag\ntitle: " + tag + "\n---\n## Tag")}
+
+      end
   }
   end
 
