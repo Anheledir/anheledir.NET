@@ -20,8 +20,7 @@
 
           <div>
             {% for post in site.posts %}
-              {% downcased = post.tags.map(&:downcase) %}
-              {% if downcased contains tag.downcase %}
+              {% if post.tags.map(&:downcase) contains tag.downcase %}
                 {% include post-list.html%}
               {% endif %}
             {% endfor %}
