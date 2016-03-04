@@ -6,7 +6,7 @@ date: 2011-10-07 08:00
 author: Gordon Breuer
 comments: true
 category: Unknown
-tags: [Mobile, Tipps &amp; Tricks]
+tags: [Mobile, Tipps-Tricks, German]
 ---
 <p><img style="margin: 0px 10px 0px 0px; display: inline; float: left;" title="" src="http://anheledirwp.blob.core.windows.net/wordpress/2011/10/internet.png" alt="Windows Phone Tipp des Tages" align="left" /></p>
 <p>War ein Datentarif f&uuml;r das Handy fr&uuml;her eher unn&ouml;tiger Luxus (oder hat wirklich jemand mit WAP aktiv gearbeitet?), ist er heute beinahe wichtiger als der eigentliche Telefontarif geworden: Statt SMS schreibt man sich per WhatsApp, den Anruf hat Skype mit VoIP abgel&ouml;st. Und nat&uuml;rlich nicht nur die beiden, es gibt eine t&auml;glich wachsende Zahl an Programmen, welche die mobile Kommunikation erleichtern sollen, und alle verwenden die mobile Datenverbindung. Um so wichtiger also, hier mal einen genaueren Blick drauf zu werfen!</p>

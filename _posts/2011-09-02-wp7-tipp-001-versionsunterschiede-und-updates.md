@@ -6,7 +6,7 @@ date: 2011-09-02 08:00
 author: Gordon Breuer
 comments: true
 category: Unknown
-tags: [Mobile, Tipps &amp; Tricks]
+tags: [Mobile, Tipps-Tricks, German]
 ---
 <h2><img style="margin: 5px 10px 10px 0px; float: left;" src="http://anheledirwp.blob.core.windows.net/wordpress/2011/09/sonstiges.png" alt="Windows Phone Tipp des Tages - Sonstiges" />Vorwort</h2>
 <div>Mir ist aufgefallen, dass viele &ldquo;normale&rdquo; Benutzer von Windows Phone 7 Ger&auml;ten kaum eine Ahnung haben, was sie mit ihrem Handy alles anstellen k&ouml;nnen oder wie es vielleicht deutlich einfacher geht. Wir &ldquo;Nerds&rdquo; geh&ouml;ren ja eher zur technikaffinen Gruppe der Benutzer, spielen gerne mal mit verschiedenen Einstellungen herum und informieren uns direkt bei der Quelle, den Entwicklerkollegen.</div>

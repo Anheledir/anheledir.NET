@@ -6,7 +6,7 @@ date: 2011-09-05 08:00
 author: Gordon Breuer
 comments: true
 category: Unknown
-tags: [Mobile, Tipps &amp; Tricks]
+tags: [Mobile, Tipps-Tricks, German]
 ---
 <p><img style="margin: 5px 10px 10px 0px; float: left;" src="http://anheledirwp.blob.core.windows.net/wordpress/2011/09/bedienung1.png" alt="Windows Phone Tipp des Tages - Bedienung" /></p>
 <p>Auf der Startseite des Windows Phone findet man rechts oben einen kleinen, eingekreisten Pfeil der nach rechts zeigt. Schnell hat man herausgefunden, dass man dadurch die Liste sehen kann, in der (fast) alle Programme enthalten sind. Einfach!</p>

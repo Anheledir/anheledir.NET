@@ -6,7 +6,7 @@ date: 2011-09-19 08:00
 author: Gordon Breuer
 comments: true
 category: Unknown
-tags: [Mobile, Tipps &amp; Tricks]
+tags: [Mobile, Tipps-Tricks, German]
 ---
 <p><img style="margin: 0px 10px 0px 0px; display: inline; float: left;" title="" src="http://anheledirwp.blob.core.windows.net/wordpress/2011/09/zune.png" alt="Windows Phone 7 Tipp des Tages: Zune-Special" align="left" /></p>
 <p>Der Zune-Player hat von der Idee her sehr viel mit iTunes bei iOS-basierenden Ger&auml;ten gemeinsam. Beides ist urspr&uuml;nglich eine Software zum Abspielen und Verwalten von Musik gewesen, die sich mit dem jeweiligen Hardware-MP3-Player des Herstellers abgleichen kann. Dazu muss man wissen, das Microsoft tats&auml;chlich einen eigenen MP3-Player unter dem Namen &ldquo;Zune&rdquo; herausgebracht hat als Konkurrenz zu Apples erfolgreicher iPod-Serie. Die Ger&auml;te haben es aber nie geschafft, den Sprung &uuml;ber den Teich zu machen und werden bis heute ausschlie&szlig;lich in den USA verkauft. Die Zune-Software jedoch gibt es schon seit l&auml;ngerem f&uuml;r alle, ist jedoch au&szlig;erhalb von Amerika eher unbekannt.</p>

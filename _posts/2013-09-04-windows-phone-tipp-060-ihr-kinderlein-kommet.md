@@ -6,7 +6,7 @@ date: 2013-09-04 11:19
 author: Gordon Breuer
 comments: true
 category: Unknown
-tags: [Development, Mobile, Tipps &amp; Tricks]
+tags: [Development, Mobile, Tipps-Tricks, German]
 ---
 <img class="alignleft size-full wp-image-4256" style="margin-right: 10px; margin-bottom: 10px;" alt="Windows Phone 8 - Tipp des Tages - Kinder" src="http://anheledirwp.blob.core.windows.net/wordpress/2013/09/WP-TdT-Kinder-8.png" width="124" height="124" />
 

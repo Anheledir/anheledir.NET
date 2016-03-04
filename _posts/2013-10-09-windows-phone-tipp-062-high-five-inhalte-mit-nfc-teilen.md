@@ -6,7 +6,7 @@ date: 2013-10-09 17:21
 author: Gordon Breuer
 comments: true
 category: Unknown
-tags: [Mobile, Tipps &amp; Tricks]
+tags: [Mobile, Tipps-Tricks, German]
 ---
 <img class="alignleft size-full wp-image-4267" style="margin-right: 10px; margin-bottom: 10px;" alt="WP-TdT-Kommunikation-8" src="http://anheledirwp.blob.core.windows.net/wordpress/2013/10/WP-TdT-Kommunikation-8.png" width="124" height="124" />
 

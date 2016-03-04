@@ -6,7 +6,7 @@ date: 2011-11-30 15:00
 author: Gordon Breuer
 comments: true
 category: Unknown
-tags: [Mobile, Tipps &amp; Tricks]
+tags: [Mobile, Tipps-Tricks, German]
 ---
 <p><img style="margin: 0px 10px 0px 0px; display: inline; float: left;" title="" src="http://anheledirwp.blob.core.windows.net/wordpress/2011/11/nachrichtenMG.png" alt="Windows Phone Tipp des Tages: Nachrichten" align="left" /></p>
 <p>Im Windows Phone <a href="/post/2011/10/04/WP-Tipp-022-&ndash;-Tastatureingaben-leicht-gemacht.aspx">Tipp #022</a> habe ich bereits erw&auml;hnt, dass es mit &ldquo;Mango&rdquo; auch eine neue Art der Darstellung von Smileys (<em>auch als &ldquo;<strong>Emoticons</strong>&rdquo; oder &ldquo;<strong>Emojis</strong>&rdquo; bekannt</em>) gibt: Windows Phone 7.5 wandelt nach der Eingabe viele Text-Smileys um in kleine Grafiken, &auml;hnlich wie es auch schon viele andere Messenger wie der MSN-Messenger aus dem Hause Microsoft, macht. Jetzt haben die Redmonder eine (<em>unvollst&auml;ndige</em>) Liste mit einigen dieser Smileys ver&ouml;ffentlicht. Die Liste findet ihr am Ende des Artikels.</p>
