@@ -1,7 +1,7 @@
 ---
 layout: post
 section-type: post
-title: WP-Tipp #047 – Was ist ein Hub?
+title: WP-Tipp Nr.047 – Was ist ein Hub?
 date: 2011-11-09 10:00
 author: Gordon Breuer
 comments: true

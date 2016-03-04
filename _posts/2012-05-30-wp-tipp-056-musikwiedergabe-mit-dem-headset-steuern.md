@@ -1,7 +1,7 @@
 ---
 layout: post
 section-type: post
-title: WP-Tipp #056 – Musikwiedergabe mit dem Headset steuern
+title: WP-Tipp Nr.056 – Musikwiedergabe mit dem Headset steuern
 date: 2012-05-30 08:00
 author: Gordon Breuer
 comments: true

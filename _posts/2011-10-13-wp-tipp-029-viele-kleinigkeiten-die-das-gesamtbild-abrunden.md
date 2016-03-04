@@ -1,7 +1,7 @@
 ---
 layout: post
 section-type: post
-title: WP-Tipp #029 – Viele Kleinigkeiten, die das Gesamtbild abrunden
+title: WP-Tipp Nr.029 – Viele Kleinigkeiten, die das Gesamtbild abrunden
 date: 2011-10-13 08:00
 author: Gordon Breuer
 comments: true

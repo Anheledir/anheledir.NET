@@ -1,7 +1,7 @@
 ---
 layout: post
 section-type: post
-title: WP-Tipp #051 – Das Handy (schneller?) wiederfinden
+title: WP-Tipp Nr.051 – Das Handy (schneller?) wiederfinden
 date: 2011-11-15 11:00
 author: Gordon Breuer
 comments: true

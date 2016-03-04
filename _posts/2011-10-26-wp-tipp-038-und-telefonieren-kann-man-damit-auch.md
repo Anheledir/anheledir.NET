@@ -1,7 +1,7 @@
 ---
 layout: post
 section-type: post
-title: WP-Tipp #038 – Und telefonieren kann man damit auch
+title: WP-Tipp Nr.038 – Und telefonieren kann man damit auch
 date: 2011-10-26 13:00
 author: Gordon Breuer
 comments: true

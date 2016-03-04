@@ -1,7 +1,7 @@
 ---
 layout: post
 section-type: post
-title: WP-Tipp #050 – E-Mails durchsuchen
+title: WP-Tipp Nr.050 – E-Mails durchsuchen
 date: 2011-11-14 15:00
 author: Gordon Breuer
 comments: true

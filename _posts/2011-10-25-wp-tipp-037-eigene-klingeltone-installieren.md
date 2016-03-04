@@ -1,7 +1,7 @@
 ---
 layout: post
 section-type: post
-title: WP-Tipp #037 – Eigene Klingeltöne installieren
+title: WP-Tipp Nr.037 – Eigene Klingeltöne installieren
 date: 2011-10-25 10:00
 author: Gordon Breuer
 comments: true

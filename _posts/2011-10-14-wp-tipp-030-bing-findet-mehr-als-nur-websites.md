@@ -1,7 +1,7 @@
 ---
 layout: post
 section-type: post
-title: WP-Tipp #030 – bing findet mehr als nur Websites
+title: WP-Tipp Nr.030 – bing findet mehr als nur Websites
 date: 2011-10-14 08:00
 author: Gordon Breuer
 comments: true

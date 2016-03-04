@@ -1,7 +1,7 @@
 ---
 layout: post
 section-type: post
-title: WP-Tipp #015 – Wann habe ich welche App gekauft?
+title: WP-Tipp Nr.015 – Wann habe ich welche App gekauft?
 date: 2011-09-22 08:00
 author: Gordon Breuer
 comments: true

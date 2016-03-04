@@ -1,7 +1,7 @@
 ---
 layout: post
 section-type: post
-title: WP-Tipp #024 – Den Klingelton verstummen lassen
+title: WP-Tipp Nr.024 – Den Klingelton verstummen lassen
 date: 2011-10-06 08:00
 author: Gordon Breuer
 comments: true

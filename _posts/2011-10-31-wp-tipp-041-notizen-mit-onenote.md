@@ -1,7 +1,7 @@
 ---
 layout: post
 section-type: post
-title: WP-Tipp #041 – Notizen mit OneNote
+title: WP-Tipp Nr.041 – Notizen mit OneNote
 date: 2011-10-31 10:00
 author: Gordon Breuer
 comments: true

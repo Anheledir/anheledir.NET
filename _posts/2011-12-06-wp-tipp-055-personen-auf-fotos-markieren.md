@@ -1,7 +1,7 @@
 ---
 layout: post
 section-type: post
-title: WP-Tipp #055 – Personen auf Fotos markieren
+title: WP-Tipp Nr.055 – Personen auf Fotos markieren
 date: 2011-12-06 12:00
 author: Gordon Breuer
 comments: true

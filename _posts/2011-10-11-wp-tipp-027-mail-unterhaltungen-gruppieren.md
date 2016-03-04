@@ -1,7 +1,7 @@
 ---
 layout: post
 section-type: post
-title: WP-Tipp #027– Mail-Unterhaltungen gruppieren
+title: WP-Tipp Nr.027– Mail-Unterhaltungen gruppieren
 date: 2011-10-11 08:00
 author: Gordon Breuer
 comments: true

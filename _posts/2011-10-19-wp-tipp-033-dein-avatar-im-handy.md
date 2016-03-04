@@ -1,7 +1,7 @@
 ---
 layout: post
 section-type: post
-title: WP-Tipp #033 – Dein Avatar im Handy
+title: WP-Tipp Nr.033 – Dein Avatar im Handy
 date: 2011-10-19 08:00
 author: Gordon Breuer
 comments: true

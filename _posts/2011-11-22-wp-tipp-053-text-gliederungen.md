@@ -1,7 +1,7 @@
 ---
 layout: post
 section-type: post
-title: WP-Tipp #053 – Text Gliederungen
+title: WP-Tipp Nr.053 – Text Gliederungen
 date: 2011-11-22 12:00
 author: Gordon Breuer
 comments: true

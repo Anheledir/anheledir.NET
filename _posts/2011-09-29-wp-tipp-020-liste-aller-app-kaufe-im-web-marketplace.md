@@ -1,7 +1,7 @@
 ---
 layout: post
 section-type: post
-title: WP-Tipp #020 – Liste aller App-Käufe im Web-Marketplace
+title: WP-Tipp Nr.020 – Liste aller App-Käufe im Web-Marketplace
 date: 2011-09-29 08:00
 author: Gordon Breuer
 comments: true

@@ -1,7 +1,7 @@
 ---
 layout: post
 section-type: post
-title: WP-Tipp #022 – Tastatureingaben leicht gemacht
+title: WP-Tipp Nr.022 – Tastatureingaben leicht gemacht
 date: 2011-10-04 08:00
 author: Gordon Breuer
 comments: true

@@ -1,7 +1,7 @@
 ---
 layout: post
 section-type: post
-title: WP-Tipp #019 – Mango-Update und neuer Web-Marketplace
+title: WP-Tipp Nr.019 – Mango-Update und neuer Web-Marketplace
 date: 2011-09-28 08:00
 author: Gordon Breuer
 comments: true

@@ -1,7 +1,7 @@
 ---
 layout: post
 section-type: post
-title: WP7-Tipp #003 – E-Mail Signatur anpassen
+title: WP7-Tipp Nr.003 – E-Mail Signatur anpassen
 date: 2011-09-06 08:00
 author: Gordon Breuer
 comments: true

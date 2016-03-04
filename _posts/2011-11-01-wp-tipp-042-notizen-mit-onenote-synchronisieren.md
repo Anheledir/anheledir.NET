@@ -1,7 +1,7 @@
 ---
 layout: post
 section-type: post
-title: WP-Tipp #042 – Notizen mit OneNote synchronisieren
+title: WP-Tipp Nr.042 – Notizen mit OneNote synchronisieren
 date: 2011-11-01 12:00
 author: Gordon Breuer
 comments: true

@@ -1,7 +1,7 @@
 ---
 layout: post
 section-type: post
-title: WP-Tipp #045 – Bewegte Bilder für einen bleibenden Eindruck teilen
+title: WP-Tipp Nr.045 – Bewegte Bilder für einen bleibenden Eindruck teilen
 date: 2011-11-07 08:00
 author: Gordon Breuer
 comments: true

@@ -1,7 +1,7 @@
 ---
 layout: post
 section-type: post
-title: WP-Tipp #057 – Schneller im Marketplace suchen
+title: WP-Tipp Nr.057 – Schneller im Marketplace suchen
 date: 2012-05-31 08:00
 author: Gordon Breuer
 comments: true

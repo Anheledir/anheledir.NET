@@ -1,7 +1,7 @@
 ---
 layout: post
 section-type: post
-title: WP-Tipp #036 – Fotos in der Cloud und mit Standortdaten
+title: WP-Tipp Nr.036 – Fotos in der Cloud und mit Standortdaten
 date: 2011-10-24 10:00
 author: Gordon Breuer
 comments: true

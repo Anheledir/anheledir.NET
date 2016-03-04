@@ -1,7 +1,7 @@
 ---
 layout: post
 section-type: post
-title: WP-Tipp #017 – Verspätungen ankündigen
+title: WP-Tipp Nr.017 – Verspätungen ankündigen
 date: 2011-09-26 08:00
 author: Gordon Breuer
 comments: true

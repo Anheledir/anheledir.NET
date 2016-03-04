@@ -1,7 +1,7 @@
 ---
 layout: post
 section-type: post
-title: WP-Tipp #032 – Kontakte in Gruppen zusammenfassen
+title: WP-Tipp Nr.032 – Kontakte in Gruppen zusammenfassen
 date: 2011-10-18 08:00
 author: Gordon Breuer
 comments: true
