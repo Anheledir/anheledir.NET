@@ -20,7 +20,7 @@
 
           <div>
             {% for post in site.posts %}
-              {% if post.tags contains tag %}
+              {% if post.tags.any?{ |s| s.casecmp(tag)==0 } %}
                 {% include post-list.html%}
               {% endif %}
             {% endfor %}
