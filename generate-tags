@@ -12,15 +12,19 @@ Dir.foreach(POSTS_DIR) do |post|
   unless (postYaml['tags'] == nil)
     postYaml['tags'].each{|tag|
 
-      unless File.exist?(TAGS_DIR + tag + '.html')
-
-        puts('[+] Generating #' + tag + ' page')
-
-        File.open(TAGS_DIR + tag + '.html', 'w') {|f| f.write(
-        "---\nlayout: tag\nsection-type: tag\ntitle: " + tag + "\n---\n## Tag")}
-
+      File.exist?(TAGS_DIR + tag + '.html')
+        File.delete(TAGS_DIR + tag + '.html')
       end
-    }
+
+      tag[" "]= "-"
+      tag["&"]= "-and-"
+      tag["#"]= ""
+      
+      puts('[+] Generating #' + tag + ' page')
+
+      File.open(TAGS_DIR + tag + '.html', 'w') {|f| f.write(
+      "---\nlayout: tag\nsection-type: tag\ntitle: " + tag + "\n---\n## Tag")}
+  }
   end
 
 end
