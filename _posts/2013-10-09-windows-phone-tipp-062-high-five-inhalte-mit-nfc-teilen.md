@@ -5,7 +5,8 @@ title: WP-Tipp #062 – High-Five - Inhalte mit NFC teilen
 date: 2013-10-09 17:21
 author: Gordon Breuer
 comments: true
-categories: [Mobile, Tipps &amp; Tricks]
+category: Unknown
+tags: [Mobile, Tipps &amp; Tricks]
 ---
 <img class="alignleft size-full wp-image-4267" style="margin-right: 10px; margin-bottom: 10px;" alt="WP-TdT-Kommunikation-8" src="http://anheledirwp.blob.core.windows.net/wordpress/2013/10/WP-TdT-Kommunikation-8.png" width="124" height="124" />
 

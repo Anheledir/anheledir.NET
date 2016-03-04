@@ -5,7 +5,8 @@ title: CompiledQueries – Die Pegasus-Stiefel für LINQ
 date: 2014-06-12 21:44
 author: Gordon Breuer
 comments: true
-categories: [Development, Fachartikel, linq c#]
+category: Unknown
+tags: [Development, Fachartikel, linq c#]
 ---
 <strong>Der nachfolgende Artikel wurde vor zwei Jahren in der Visual Studio One veröffentlicht und ich habe zum Thema auch schon ein paar Vorträge gehalten. Da ich neulich erneut darauf angesprochen wurde, habe ich mich für eine Veröffentlichung hier im Blog entschlossen.</strong>
 

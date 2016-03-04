@@ -5,7 +5,8 @@ title: Die Genauigkeit bei der Stifteingabe auf dem Surface (2) Pro verbessern
 date: 2013-12-11 15:30
 author: Gordon Breuer
 comments: true
-categories: [Mobile, Tipps &amp; Tricks]
+category: Unknown
+tags: [Mobile, Tipps &amp; Tricks]
 ---
 <img class="alignleft size-thumbnail wp-image-7024" alt="3286.Surface_Pro" src="http://anheledirwp.blob.core.windows.net/wordpress/2013/12/3286.Surface_Pro-150x150.jpg" width="150" height="150" />Seit ich das Microsoft Surface Pro besitze, bin ich eigentlich ein ziemlicher Fan von dem Device. Es ist leicht und klein genug um es quasi immer dabei zu haben, mit dem Type-Cover kann man trotzdem bequem längere Texte schreiben und auf die Stift-Bedienung möchte ich am liebsten gar nicht mehr verzichten.
 

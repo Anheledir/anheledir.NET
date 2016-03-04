@@ -5,7 +5,8 @@ title: Probleme beim Einrichten der Microsoft-ID auf einem neuen Windows Phone
 date: 2013-12-11 14:11
 author: Gordon Breuer
 comments: true
-categories: [Mobile, Tipps &amp; Tricks]
+category: Unknown
+tags: [Mobile, Tipps &amp; Tricks]
 ---
 <img class="alignleft size-full wp-image-6810" style="margin-right:10px; margin-bottom:10px;" alt="WP-TdT-Kommunikation-8" src="http://anheledirwp.blob.core.windows.net/wordpress/2013/10/WP-TdT-Kommunikation-8.png" width="124" height="124" />Vor ein paar Tagen hat mich <a title="Blog von Sascha Dittmann" href="http://www.sascha-dittmann.de/">Sascha Dittmann</a> angeschrieben, ob ich eine Idee hätte warum er auf seinem neuen Windows Phone kein Microsoft-Konto anlegen könne. Auf die Lösung kam er wenig später selber - hab die Nachricht erst abends gelesen - als er bemerkt hat das zwar Uhrzeit und Tag korrekt eingestellt waren, aber nicht der korrekte Monat. Dadurch gibt es vermutlich Probleme beim Austausch von Sicherheits-Token die auf dem aktuellen Datum und der Uhrzeit basieren - und es kommt nur eine nichtssagende Fehlermeldung das man die Verbindung überprüfen oder es später erneut versuchen soll.
 

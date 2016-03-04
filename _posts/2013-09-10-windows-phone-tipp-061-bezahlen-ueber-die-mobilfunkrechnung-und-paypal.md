@@ -5,7 +5,8 @@ title: WP-Tipp #061 - Bezahlen über die Mobilfunkrechnung und PayPal
 date: 2013-09-10 14:45
 author: Gordon Breuer
 comments: true
-categories: [geld, Mobile, Tipps &amp; Tricks, wallet, winphone]
+category: Unknown
+tags: [geld, Mobile, Tipps &amp; Tricks, wallet, winphone]
 ---
 <img class="alignleft size-full wp-image-4262" style="margin-right: 10px; margin-bottom: 10px;" alt="WP-TdT-Brieftasche-8" src="http://anheledirwp.blob.core.windows.net/wordpress/2013/09/WP-TdT-Brieftasche-8.png" width="124" height="124" />
 

@@ -5,7 +5,8 @@ title: WP-Tipp #015 – Wann habe ich welche App gekauft?
 date: 2011-09-22 08:00
 author: Gordon Breuer
 comments: true
-categories: [Mobile, Tipps &amp; Tricks]
+category: Unknown
+tags: [Mobile, Tipps &amp; Tricks]
 ---
 <p><img style="margin: 0px 10px 0px 0px; display: inline; float: left;" title="" src="http://anheledirwp.blob.core.windows.net/wordpress/2011/09/zune.png" alt="Windows Phone Tipp des Tages: Zune Special" align="left" />Im Laufe der Zeit sammeln sich einige Apps auf dem Windows Phone an. Hin und wieder probiert man mal eine Testversion oder kostenlose App aus, oder gibt auch mal ein paar Euro f&uuml;r ein Programm aus. Doch eine vollst&auml;ndige Liste aller bisher gekauften Apps ist sehr gut in der Zune-Software versteckt und auf den ersten Blick nicht so leicht zu finden! Begeben wir uns also gemeinsam auf die Suche&hellip;</p>
 <p>Wichtig ist zun&auml;chst, dass Sie sich mit Ihrem Live-Konto in Zune angemeldet haben, welches Sie auch auf Ihrem Windows Phone beim Installieren der App verwendet haben. Anschlie&szlig;end gehen wir auf den Men&uuml;punkt &ldquo;Einstellungen&rdquo; und dort auf den Reiter &ldquo;Konto&rdquo;.</p>

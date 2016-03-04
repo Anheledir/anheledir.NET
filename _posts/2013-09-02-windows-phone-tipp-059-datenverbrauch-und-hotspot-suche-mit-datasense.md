@@ -5,7 +5,8 @@ title: WP-Tipp #059 - Datenverbrauch und Hotspot-Suche mit DataSense
 date: 2013-09-02 14:20
 author: Gordon Breuer
 comments: true
-categories: [Development, gdr2, hotspot, Mobile, Tipps &amp; Tricks, winphone, wlan]
+category: Unknown
+tags: [Development, gdr2, hotspot, Mobile, Tipps &amp; Tricks, winphone, wlan]
 ---
 <img class="alignleft size-full wp-image-4250" style="margin-right: 10px; margin-bottom: 10px;" alt="Windows Phone 8 Tipp des Tages - Internet und Bing" src="http://anheledirwp.blob.core.windows.net/wordpress/2013/09/WP-TdT-Internet-Bing-8.png" width="124" height="124" />
 
