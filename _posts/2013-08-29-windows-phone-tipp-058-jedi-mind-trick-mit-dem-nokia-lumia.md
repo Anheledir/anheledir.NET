@@ -6,7 +6,7 @@ date: 2013-08-29 16:33
 author: Gordon Breuer
 comments: true
 category: Unknown
-tags: [amber, gdr2, lumia, Mobile, nokia, Tipps &amp; Tricks, update, winphone]
+tags: [amber, gdr2, lumia, Mobile, nokia, Tipps-Tricks, German, update, winphone]
 ---
 <img class="alignleft size-full wp-image-4244" style="margin-right: 10px; margin-bottom: 10px;" alt="Windows Phone 8 Tipp des Tages - Lumia-Exklusiv" src="http://anheledirwp.blob.core.windows.net/wordpress/2013/08/WP-TdT-Lumia-8.png" width="124" height="124" />Etwa 4 Monate lang gab es im vergangenen Jahr täglich einen neuen Tipp rund um das Windows Phone hier im Blog. Damals noch für die Version 7 und 7.5, Codename "<em>Mango</em>". Nach einem Jahr Pause gibt es wieder neue Artikel auf meinem Blog, also warum nicht auch wieder mit den Windows Phone Tipps weitermachen, frisch poliert dieses mal für die Version 8 :-)
 
