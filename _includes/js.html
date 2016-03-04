@@ -180,7 +180,7 @@ function addTohistory() {
       {% if site.baseurl == "" and page.previous == nil %}
         document.location.replace("/");
       {% else %}
-        document.location.replace("{{site.baseurl}}{{page.previous.url}}");
+        document.location.replace("{{site.baseurl}}{{page.next.url}}");
       {% endif %}
     });
 
@@ -189,12 +189,12 @@ function addTohistory() {
       {% if site.baseurl == "" and page.next == nil %}
         document.location.replace("/");
       {% else %}
-        document.location.replace("{{site.baseurl}}{{page.next.url}}");
+        document.location.replace("{{site.baseurl}}{{page.previous.url}}");
       {% endif %}
     });
   </script>
 
-  <!-- Post Gesture Navigation Start -->
+  <!-- Post Gesture Navigation End -->
 
 {% endif %}
 
