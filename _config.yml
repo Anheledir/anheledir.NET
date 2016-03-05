@@ -125,8 +125,11 @@ syntax-highlight: True
 ############
 
 events:
+   - image: "/img/timeline/csm.png"
+     date: "April 2015"
+     description: 'Certified Scrum Master (CSM:registered:) Training'
    - image: "/img/timeline/architecture.png"
-     date: "September 2014 - November 2014"
+     date: "September 2013 - November 2013"
      description: "Training as IT- and Software-Architect"
    - image: "/img/timeline/ndc.png"
      date: "Mai 2013"
@@ -151,7 +154,7 @@ events:
      description: 'Working at <a href="http://www.boxfix.de">BoxFix Limited</a> as server administration and associate director'
    - image: "/img/timeline/school.png"
      date: "Juni 2002"
-     description: 'Secondary School, <a href="http://gymnasium-kerpen.de/">Gymnasium Kerpen</a>'
+     description: 'Secondary School :mortar_board:, <a href="http://gymnasium-kerpen.de/">Gymnasium Kerpen</a>'
 
 # First image of the Timeline
 
