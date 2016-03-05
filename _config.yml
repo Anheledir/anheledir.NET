@@ -133,22 +133,22 @@ events:
      description: 'Awarded as a Nokia Developer Champion for Windows Phone'
    - image: "/img/timeline/msg.png"
      date: "Mai 2012 - Today"
-     description: "Working at msg systems AG as Senior IT Consultant and Software Engineer"
+     description: 'Working at <a href="http://www.msg-systems.com">msg systems AG</a> as Senior IT Consultant and Software Engineer'
    - image: "/img/timeline/ndc.png"
      date: "Mai 2012"
      description: 'Awarded as a Nokia Developer Champion for Windows Phone'
    - image: "/img/timeline/dmde.png"
      date: "Juli 2009 - April 2012"
-     description: "Working at DMDE GmbH as Technology Producer"
+     description: 'Working at <a href="http://www.dmde.net/">DMDE GmbH</a> as Technology Producer and Software Engineer'
    - image: "/img/timeline/mediadesigner.png"
      date: "August 2006 - June 2009"
-     description: 'Training as a Digital Media Designer (non-print)'
+     description: 'Training as a Digital Media Designer (non-print) at <a href="http://www.dmde.net/">DMDE GmbH</a>'
    - image: "/img/timeline/lawschool.png"
      date: "October 2003 - March 2006"
-     description: 'Studying jurisprudence in Saarbrucken, without degree'
+     description: 'Studying jurisprudence at the <a href="http://www.uni-saarland.de">University of Saarbrucken</a>, without degree'
    - image: "/img/timeline/boxfix.png"
      date: "September 2001 - July 2006"
-     description: "Working at BoxFix Limited, server administration and associate director"
+     description: 'Working at <a href="http://www.boxfix.de">BoxFix Limited</a> as server administration and associate director'
    - image: "/img/timeline/school.png"
      date: "Juni 2002"
      description: 'Secondary School, <a href="http://gymnasium-kerpen.de/">Gymnasium Kerpen</a>'
