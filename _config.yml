@@ -128,11 +128,14 @@ events:
    - image: "/img/timeline/architecture.png"
      date: "September 2014 - November 2014"
      description: "Training as IT- and Software-Architect"
+   - image: "/img/timeline/ndc.png"
+     date: "Mai 2013"
+     description: 'Awarded as a Nokia Developer Champion for Windows Phone'
    - image: "/img/timeline/msg.png"
      date: "Mai 2012 - Today"
      description: "Working at msg systems AG as Senior IT Consultant and Software Engineer"
    - image: "/img/timeline/ndc.png"
-     date: "2012 &amp; 2013"
+     date: "Mai 2012"
      description: 'Awarded as a Nokia Developer Champion for Windows Phone'
    - image: "/img/timeline/dmde.png"
      date: "Juli 2009 - April 2012"
