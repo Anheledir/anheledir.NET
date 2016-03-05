@@ -127,7 +127,7 @@ syntax-highlight: True
 events:
    - image: "/img/timeline/csm.png"
      date: "April 2015"
-     description: 'Certified Scrum Master (CSM:registered:) Training'
+     description: 'Certified Scrum Master (CSM :registered: ) Training'
    - image: "/img/timeline/architecture.png"
      date: "September 2013 - November 2013"
      description: "Training as IT- and Software-Architect"
