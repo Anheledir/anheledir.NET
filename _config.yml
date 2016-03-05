@@ -125,7 +125,7 @@ syntax-highlight: True
 ############
 
 events:
-   - image: "/img/timeline/architecture.jpg"
+   - image: "/img/timeline/architecture.png"
      date: "September 2014 - November 2014"
      description: "Training as IT- and Software-Architect"
    - image: "/img/timeline/msg.png"
