@@ -20,9 +20,11 @@
 
           <div>
             {% for post in site.posts %}
-              {% if post.tags contains tag %}
-                {% include post-list.html%}
-              {% endif %}
+              {% for t in post.tags %}
+                {% if t == '%}{{ tag | downcase}}{%'%}
+                  {% include post-list.html%}
+                {% endif %}
+              {% endfor %}
             {% endfor %}
           </div>
 
