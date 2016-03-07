@@ -12,11 +12,12 @@ Dir.foreach(POSTS_DIR) do |post|
   unless (postYaml['category'] == nil)
     category = postYaml['category']
 
-    unless File.exist?(CATEGORIES_DIR + category.downcase + '.html')
+.   category.downcase!
+    unless File.exist?(CATEGORIES_DIR + category + '.html')
 
       puts('[+] Generating #' + category + ' page')
 
-      File.open(CATEGORIES_DIR + category.downcase + '.html', 'w') {|f| f.write(
+      File.open(CATEGORIES_DIR + category + '.html', 'w') {|f| f.write(
       "---\nlayout: category\nsection-type: category\ntitle: " + category + "\n---\n## Category")}
 
     end
