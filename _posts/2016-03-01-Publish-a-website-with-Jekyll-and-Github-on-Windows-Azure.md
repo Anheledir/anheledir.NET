@@ -18,9 +18,11 @@ So, instead of using a software that creates my website / blog dynamically, this
 > **Performance:** Compared to any dynamic website, CMS or especially Wordpress, a static website is incredible fast, very easy to scale and has a very-low footprint regarding to CPU and RAM.
 
 Jekyll is based on [Ruby], so you need to enable PHP (it's already by default) in your Application settings. You can choose to install Jekyll all by yourself as a Ruby Gem into your Web App. But [Cory Fowler] has written an [extension][Azure Jekyll Extension] for your convenience to automate this task for you. To install and use the Extension you should at first add a new environment variable to your application, because installing Jekyll and all dependencies may take a while and you don't want to run into a timeout:
+
 ```
 SCM_COMMAND_IDLE_TIMEOUT = 600
 ```
+
 After setting the higher timeout you can install the extension via the Extension Manager, just take a look at the following screenshot:
 
 ![Add the Jekyll-Extension into your Azure Web App][img1]
@@ -28,11 +30,13 @@ After setting the higher timeout you can install the extension via the Extension
 Now it's time to push your new website into your new GitHub Repository. You can choose any repository that is supported by Azure or just upload your site via FTP. The way I'm demonstrating here is usefull because you can create and edit your Markdown files from the GitHub-Website and because my blog is public it doesn't matter when my repository is public, too. Even better, you can link your repository to your Azure Web App for "continuous integration", but I will get to this in a minute.
 
 The easiest way to start is creating a new page directly with Jekyll, but you must have Ruby installed on your system to use this:
+
 ```sh
 gem install jekyll
 cd wherever/you/want/this/project/on/your/computer
 jekyll new my-blog
 ```
+
 If you don't have Ruby installed you can take a look at the [GitHub Help] for instructions or you can just use a [ready-to-use theme][lmbtfy jekyll theme]. The most simple theme, almost the same you get when you create it with Jekyll, has been uploaded by [Chris Nunciato] and can be [found here][GitHub jekyll starter]. Just commit the freshly created site - either the one created by Jekyll or the one downloaded - into your own Repository and push it to GitHub.
 
 Now to the really cool part! One disadvantage to a CMS seems to be that you have to create your files everytime something changed. But you can automate this task thanks to Azures Continuous Integration feature. Go to your Azure Web App and under Settings you click on *Continuous deployment*. You get a list of all supported services:
