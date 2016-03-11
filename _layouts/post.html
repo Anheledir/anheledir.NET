@@ -27,15 +27,17 @@
 
           {{ page.content | markdownify }}
 
+         <div class="text-center">
+            <h4>Questions/Suggestions</h4>
+              <div>As always, for questions or feedback, contact me or leave a comment.<br />
+                <a href="https://github.com/Anheledir/anheledir.NET/tree/master/{{page.path}}">
+                  <img class="pull-left" alt="Octocat by GitHub" src="/img/GitHub-Mark-Light-32px.png" />Edit this page on GitHub</a>
+              </div>
+          </div>
+          <div class="clearfix" />
+
           {% include share.html %}
           
-          <div class="text-center">
-            <h4>Questions/Suggestions</h4>
-              <p>As always, for questions or feedback, contact me or leave a comment.<br />
-                <a href="https://github.com/Anheledir/anheledir.NET/tree/master/{{page.path}}"><img alt="Octocat by GitHub" src="/img/GitHub-Mark-Light-32px.png" />Edit this page on GitHub</a>
-              </p>
-          </div>
-
           {% if jekyll.environment == "production" %}
             {% include comments.html %}
           {% endif %}
