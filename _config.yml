@@ -90,6 +90,7 @@ web-app-mode: True
 
 # Icons for Web App mode
 
+
 icon-36p: "/img/web-app/icon-36p.png"
 icon-48p: "/img/web-app/icon-48p.png"
 icon-72p: "/img/web-app/icon-72p.png"
@@ -127,7 +128,8 @@ syntax-highlight: True
 events:
    - image: "/img/timeline/csm.png"
      date: "April 2015"
-     description: 'Certified Scrum Master (CSM&reg;) Training'   - image: "/img/timeline/architecture.png"
+     description: 'Certified Scrum Master (CSM&reg;) Training'   
+   - image: "/img/timeline/architecture.png"
      date: "September 2013 - November 2013"
      description: "Training as IT- and Software-Architect"
    - image: "/img/timeline/ndc.png"
