@@ -127,8 +127,7 @@ syntax-highlight: True
 events:
    - image: "/img/timeline/csm.png"
      date: "April 2015"
-     description: 'Certified Scrum Master (CSM&reg;) Training'
-   - image: "/img/timeline/architecture.png"
+     description: 'Certified Scrum Master (CSM&reg;) Training'   - image: "/img/timeline/architecture.png"
      date: "September 2013 - November 2013"
      description: "Training as IT- and Software-Architect"
    - image: "/img/timeline/ndc.png"
@@ -177,8 +176,8 @@ social:
     url: "https://twitter.com/anheledir"
   - title: "skype"
     url: "skype:Anheledir"
-	- title: "paypal"
-		url: "https://www.paypal.me/Anheledir"
+  - title: "paypal"
+    url: "https://www.paypal.me/Anheledir"
   - title: "xing"
     url: "https://www.xing.com/profile/Gordon_Breuer"
   - title: "linkedin"
@@ -187,6 +186,8 @@ social:
     url: "https://github.com/Anheledir"
   - title: "stack-overflow"
     url: "http://stackoverflow.com/users/5703/anheledir"
+  - title: "book"
+    url: "https://www.fanfiction.net/~anheledir"
   - title: "rss"
     url: "/feed.xml"
 
