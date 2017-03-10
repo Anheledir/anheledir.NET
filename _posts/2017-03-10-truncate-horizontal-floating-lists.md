@@ -1,4 +1,3 @@
-
 ---
 layout: post
 section-type: post
