@@ -90,6 +90,7 @@ web-app-mode: True
 
 # Icons for Web App mode
 
+
 icon-36p: "/img/web-app/icon-36p.png"
 icon-48p: "/img/web-app/icon-48p.png"
 icon-72p: "/img/web-app/icon-72p.png"
@@ -127,7 +128,7 @@ syntax-highlight: True
 events:
    - image: "/img/timeline/csm.png"
      date: "April 2015"
-     description: 'Certified Scrum Master (CSM&reg;) Training'
+     description: 'Certified Scrum Master (CSM&reg;) Training'   
    - image: "/img/timeline/architecture.png"
      date: "September 2013 - November 2013"
      description: "Training as IT- and Software-Architect"
@@ -177,8 +178,8 @@ social:
     url: "https://twitter.com/anheledir"
   - title: "skype"
     url: "skype:Anheledir"
-	- title: "paypal"
-		url: "https://www.paypal.me/Anheledir"
+  - title: "paypal"
+    url: "https://www.paypal.me/Anheledir"
   - title: "xing"
     url: "https://www.xing.com/profile/Gordon_Breuer"
   - title: "linkedin"
@@ -187,6 +188,8 @@ social:
     url: "https://github.com/Anheledir"
   - title: "stack-overflow"
     url: "http://stackoverflow.com/users/5703/anheledir"
+  - title: "book"
+    url: "https://www.fanfiction.net/~anheledir"
   - title: "rss"
     url: "/feed.xml"
 
